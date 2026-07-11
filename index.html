@@ -33,18 +33,7 @@
 
     <section id="news">
       <div class="eyebrow">latest headlines</div>
-      <a class="headline-card" href="#">
-        <div class="title">Bitcoin ETF inflows hit three week high as rate cut bets grow</div>
-        <div class="source">Reuters</div>
-      </a>
-      <a class="headline-card" href="#">
-        <div class="title">Ethereum layer 2 activity climbs as fees drop to yearly low</div>
-        <div class="source">CoinDesk</div>
-      </a>
-      <a class="headline-card" href="#">
-        <div class="title">Regulators signal clearer stablecoin rules by year end</div>
-        <div class="source">Bloomberg</div>
-      </a>
+      <div id="headlinesRow"></div>
     </section>
 
     <div class="ad-slot">ad slot</div>
@@ -55,6 +44,7 @@
   </div>
 
   <script src="/ticker.js"></script>
+  <script src="/headlines.js"></script>
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
