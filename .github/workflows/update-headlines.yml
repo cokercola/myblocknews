@@ -1,0 +1,32 @@
+name: Update headlines
+
+on:
+  schedule:
+    # Runs every 2 hours. Adjust the cron if you'd like it more or less frequent.
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab too
+
+jobs:
+  update-headlines:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest headlines
+        run: node scripts/fetch-headlines.js
+
+      - name: Commit updated headlines
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add headlines.json
+          git diff --staged --quiet || git commit -m "Update headlines"
+          git push
