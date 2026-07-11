@@ -1,7 +1,42 @@
 [
   {
-    "title": "Welcome to myblocknews — real headlines will appear here shortly",
-    "source": "myblocknews",
-    "url": "/"
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "The UK has finally shown it’s serious about crypto",
+    "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+    "url": "<![CDATA[https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+    "url": "<![CDATA[https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+    "url": "<![CDATA[https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
+    "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
+    "source": "Decrypt"
   }
 ]
