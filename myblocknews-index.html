@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>myblocknews — clear signal, real markets</title>
+  <meta name="description" content="Live crypto prices and real market headlines, with occasional plain-language commentary. Not financial advice.">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="logo-mark"><span></span><span></span><span></span><span></span></div>
+        <div class="wordmark"><span class="my">my</span><span class="rest">blocknews</span></div>
+        <div class="header-divider"></div>
+        <div class="slogan">clear signal, real markets</div>
+      </div>
+      <nav>
+        <a href="/#markets">markets</a>
+        <a href="/#news">news</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <section id="markets">
+      <div class="eyebrow accent">live markets &middot; scroll for more</div>
+      <div class="ticker-scroll" id="tickerRow"></div>
+    </section>
+
+    <div class="ad-slot">ad slot</div>
+
+    <section id="news">
+      <div class="eyebrow">latest headlines</div>
+      <a class="headline-card" href="#">
+        <div class="title">Bitcoin ETF inflows hit three week high as rate cut bets grow</div>
+        <div class="source">Reuters</div>
+      </a>
+      <a class="headline-card" href="#">
+        <div class="title">Ethereum layer 2 activity climbs as fees drop to yearly low</div>
+        <div class="source">CoinDesk</div>
+      </a>
+      <a class="headline-card" href="#">
+        <div class="title">Regulators signal clearer stablecoin rules by year end</div>
+        <div class="source">Bloomberg</div>
+      </a>
+    </section>
+
+    <div class="ad-slot">ad slot</div>
+
+    <div class="disclaimer">not financial advice. prices are pulled live from Binance's public market data; headlines are pulled from third party sources and may be delayed.</div>
+
+    <footer>&copy; <span id="year"></span> myblocknews</footer>
+  </div>
+
+  <script src="/ticker.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
