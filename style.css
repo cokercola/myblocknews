@@ -479,3 +479,201 @@ article.body .related {
   border-top: 0.5px solid var(--border);
 }
 article.body .related .eyebrow { margin-bottom: 10px; }
+/* ============================================
+   Additions for Block Brief / Analysis / Regulation / Learn
+   Append to the end of style.css
+   ============================================ */
+
+/* Per-section accent colors — used as left-border stripes and eyebrow color */
+:root {
+  --stripe-brief: #B8860B;
+  --stripe-analysis: var(--accent);
+  --stripe-regulation: #2B5C7A;
+  --stripe-learn: #6B5CA5;
+}
+
+.eyebrow.accent-brief { color: var(--stripe-brief); }
+.eyebrow.accent-analysis { color: var(--stripe-analysis); }
+.eyebrow.accent-regulation { color: var(--stripe-regulation); }
+.eyebrow.accent-learn { color: var(--stripe-learn); }
+
+/* Block Brief */
+.brief-card {
+  background: var(--panel);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--stripe-brief);
+  border-radius: 8px;
+  padding: 16px 18px;
+}
+
+.brief-headline {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 14px;
+}
+
+.brief-block { margin-bottom: 12px; }
+.brief-block:last-child { margin-bottom: 0; }
+
+.brief-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--stripe-brief);
+  margin-bottom: 3px;
+}
+
+.brief-text {
+  font-family: 'Source Serif 4', serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #2E3A32;
+  margin: 0;
+}
+
+/* Market Analysis */
+.analysis-card {
+  background: var(--panel);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--stripe-analysis);
+  border-radius: 8px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+}
+.analysis-card:last-child { margin-bottom: 0; }
+
+.analysis-meta {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+  margin-bottom: 6px;
+}
+
+.analysis-headline {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text);
+  margin: 0 0 8px;
+}
+
+.analysis-text {
+  font-family: 'Source Serif 4', serif;
+  font-size: 14px;
+  line-height: 1.65;
+  color: #2E3A32;
+  margin: 0;
+}
+
+/* Regulation & Policy — reuses .headline-card from news, just add: */
+#regulation .headline-card { border-left: 2px solid var(--stripe-regulation); }
+
+/* Learn — locked to 2 columns to match the reference mockup */
+.learn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.learn-card {
+  background: var(--panel);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--stripe-learn);
+  border-radius: 8px;
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  overflow: hidden;
+  transition: border-color 0.15s ease;
+}
+.learn-card:hover { border-color: var(--border-strong); }
+
+.learn-card-image {
+  width: 100%;
+  height: 84px;
+  background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.learn-card-body { padding: 12px 14px 14px; }
+
+/* Header weather chip */
+.weather-chip {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--header-bg-2);
+  border: 0.5px solid var(--header-divider);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: #4FD1C5;
+}
+
+/* Colored nav links — lighter tints for readability on the dark header */
+header.site-header nav a.nav-brief { color: #EFCB70; }
+header.site-header nav a.nav-brief:hover { color: #F7DFA0; }
+header.site-header nav a.nav-analysis { color: #4FD1C5; }
+header.site-header nav a.nav-analysis:hover { color: #7EE3D3; }
+header.site-header nav a.nav-regulation { color: #7FA3BE; }
+header.site-header nav a.nav-regulation:hover { color: #A4C0D6; }
+header.site-header nav a.nav-learn { color: #B3A6E0; }
+header.site-header nav a.nav-learn:hover { color: #CBC1EC; }
+
+.learn-article-image {
+  width: 100%;
+  height: 200px;
+  background: var(--bg);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 20px;
+}
+
+.learn-card-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.learn-card h3 {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 6px;
+  color: var(--text);
+}
+
+.learn-card p {
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* Learn article pages (used by /learn/*.html) */
+.learn-nav-back {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--text-muted);
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 18px;
+}
+.learn-nav-back:hover { color: var(--accent); }
+
+article.body .related {
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 0.5px solid var(--border);
+}
+article.body .related .eyebrow { margin-bottom: 10px; }
