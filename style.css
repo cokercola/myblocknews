@@ -116,22 +116,42 @@ section:last-of-type { border-bottom: none; }
 .ticker-card.loading .price, .ticker-card.loading .change { color: var(--text-dim); }
 
 /* Headlines */
+.headlines-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+@media (max-width: 640px) {
+  .headlines-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 420px) {
+  .headlines-grid { grid-template-columns: 1fr; }
+}
+
 .headline-card {
   background: var(--panel);
   border: 0.5px solid var(--border);
   border-radius: 8px;
-  padding: 14px;
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
-  align-items: flex-start;
+  overflow: hidden;
   text-decoration: none;
-  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
 }
-.headline-card:last-child { margin-bottom: 0; }
-.headline-card .title { font-size: 14px; color: var(--text); line-height: 1.4; }
-.headline-card .source { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-dim); white-space: nowrap; padding-top: 2px; }
-
+.headline-card .title { font-size: 14px; color: var(--text); line-height: 1.4; padding: 12px 14px 0; }
+.headline-card .source {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: #E1F5EE;
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin: 10px 14px 14px;
+  align-self: flex-start;
+}
 /* Ad slot */
 .ad-slot {
   margin: 18px 0;
@@ -250,16 +270,14 @@ footer {
 
 
 .headline-image {
-  width: 72px;
-  height: 72px;
+  width: 100%;
+  height: 140px;
   object-fit: cover;
-  border-radius: 6px;
-  flex-shrink: 0;
+  display: block;
 }
 
 .headline-body {
-  flex: 1;
-  min-width: 0;
+  display: contents;
 }
 .recap-card {
   background: var(--panel);
@@ -336,14 +354,23 @@ footer {
 }
 
 .brief-headline {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: var(--text);
-  margin: 0 0 14px;
+  margin: 0 0 10px;
 }
 
-.brief-block { margin-bottom: 12px; }
-.brief-block:last-child { margin-bottom: 0; }
+.brief-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 16px;
+}
+
+.brief-block-wide { grid-column: 1 / -1; }
+
+@media (max-width: 420px) {
+  .brief-grid { grid-template-columns: 1fr; }
+}
 
 .brief-label {
   font-family: 'IBM Plex Mono', monospace;
