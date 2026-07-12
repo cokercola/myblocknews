@@ -45,9 +45,16 @@
       <div class="eyebrow accent">live markets &middot; scroll for more</div>
       <div class="ticker-scroll" id="tickerRow"></div>
     </section>
-
+    <section id="markets">
+      <div class="eyebrow accent">live markets &middot; scroll for more</div>
+      <div class="ticker-scroll" id="tickerRow"></div>
+    </section>
+    <section id="recap">
+      <div class="eyebrow">today's market pulse</div>
+      <div class="recap-card" id="recapCard"></div>
+    </section>
     <div class="ad-slot">ad slot</div>
-
+    
     <section id="news">
       <div class="eyebrow">latest headlines</div>
       <div id="headlinesRow"></div>
@@ -82,6 +89,7 @@
 </footer>
   <script src="/ticker.js"></script>
   <script src="/headlines.js"></script>
+  <script src="/recap.js"></script>
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
