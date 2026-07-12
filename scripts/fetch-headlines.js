@@ -80,9 +80,28 @@ async function fetchFeed(feed) {
     return [];
   }
 }
+// Interleaves items from each feed round-robin style, so the list isn't
+// dominated by whichever source happens to come first in the array.
+function interleave(arraysBySource) {
+  const result = [];
+  let i = 0;
+  let addedAny = true;
+  while (addedAny) {
+    addedAny = false;
+    for (const arr of arraysBySource) {
+      if (arr[i]) {
+        result.push(arr[i]);
+        addedAny = true;
+      }
+    }
+    i++;
+  }
+  return result;
+}
+
 async function main() {
   const results = await Promise.all(FEEDS.map(fetchFeed));
-  const allItems = results.flat();
+  const allItems = interleave(results);
 
   if (allItems.length === 0) {
     console.error("No headlines fetched from any feed — leaving headlines.json and regulation.json unchanged.");
