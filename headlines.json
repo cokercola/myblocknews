@@ -1,14 +1,8 @@
 [
   {
-    "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-    "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62ae8ce6306c7fdf4b52e0a884495d92c7e20a82-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-    "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/302438fa1f251317f39e4d492e27d9f5668318b6-650x372.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Signs of life?: State of Crypto",
+    "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,33 +12,39 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
-    "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg",
-    "source": "Cointelegraph"
+    "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+    "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
-    "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
-    "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations.jpg",
-    "source": "Cointelegraph"
+    "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+    "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-    "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-ordinals.jpg",
-    "source": "Cointelegraph"
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
-    "title": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free",
-    "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/tiktok-logo-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
-    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
-    "source": "Decrypt"
+    "title": "The UK has finally shown it’s serious about crypto",
+    "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d77ca36caf0092a5926c5d03601dbfc0203999a6-5779x3853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+    "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
