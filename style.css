@@ -244,11 +244,7 @@ footer {
   font-size: 11px;
   color: #475569;
 }
-.headline-card {
-  display: flex;
-  align-items: flex-start;
-  gap: 14px;
-}
+
 
 .headline-image {
   width: 72px;
