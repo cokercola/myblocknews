@@ -244,3 +244,21 @@ footer {
   font-size: 11px;
   color: #475569;
 }
+.headline-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.headline-image {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.headline-body {
+  flex: 1;
+  min-width: 0;
+}
