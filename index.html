@@ -30,14 +30,18 @@
         <div class="wordmark"><span class="my">my</span><span class="rest">blocknews</span></div>
         <div class="header-divider"></div>
         <div class="slogan">clear signal, real markets</div>
+        <div class="weather-chip" id="weatherChip">
+          <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 17a4 4 0 0 1 .5-7.98A5.5 5.5 0 0 1 17 10a3.5 3.5 0 0 1-.5 6.98H6z"/></svg>
+          <span id="weatherTemp">&mdash;</span>
+        </div>
       </div>
       <nav>
-        <a href="/#brief">block brief</a>
+        <a href="/#brief" class="nav-brief">block brief</a>
         <a href="/#markets">markets</a>
         <a href="/#news">news</a>
-        <a href="/#analysis">analysis</a>
-        <a href="/#regulation">regulation</a>
-        <a href="/#learn">learn</a>
+        <a href="/#analysis" class="nav-analysis">analysis</a>
+        <a href="/#regulation" class="nav-regulation">regulation</a>
+        <a href="/#learn" class="nav-learn">learn</a>
       </nav>
     </div>
   </header>
@@ -211,6 +215,7 @@
   <script src="/headlines.js"></script>
   <script src="/recap.js"></script>
   <script src="/regulation.js"></script>
+  <script src="/weather.js"></script>
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
