@@ -7,8 +7,20 @@ const FEEDS = [
   { url: "https://cointelegraph.com/rss", source: "Cointelegraph" },
   { url: "https://decrypt.co/feed", source: "Decrypt" },
 ];
-const PER_FEED = 3;
+const PER_FEED = 10;
 const TOTAL_HEADLINES = 8;
+const TOTAL_REGULATION = 6;
+
+const REGULATION_KEYWORDS = [
+  "sec", "cftc", "regulat", "lawsuit", "legislat", "congress", "senate",
+  "bill", "ruling", "court", "compliance", "ban", "fine", "charged",
+  "indict", "settlement", "mica", "policy", "law ", "fca", "doj",
+];
+
+function isRegulationHeadline(title) {
+  const lower = title.toLowerCase();
+  return REGULATION_KEYWORDS.some((kw) => lower.includes(kw));
+}
 
 // Strips a CDATA wrapper if present, otherwise returns the string as-is.
 // Some feeds (Cointelegraph) wrap <link> and <title> in CDATA; others
@@ -70,12 +82,25 @@ async function fetchFeed(feed) {
 }
 async function main() {
   const results = await Promise.all(FEEDS.map(fetchFeed));
-  const combined = results.flat().slice(0, TOTAL_HEADLINES);
-  if (combined.length === 0) {
-    console.error("No headlines fetched from any feed — leaving headlines.json unchanged.");
+  const allItems = results.flat();
+
+  if (allItems.length === 0) {
+    console.error("No headlines fetched from any feed — leaving headlines.json and regulation.json unchanged.");
     process.exit(1);
   }
-  fs.writeFileSync("headlines.json", JSON.stringify(combined, null, 2));
-  console.log(`Wrote ${combined.length} headlines to headlines.json`);
+
+  const regulationItems = allItems
+    .filter((item) => isRegulationHeadline(item.title))
+    .slice(0, TOTAL_REGULATION);
+
+  const generalItems = allItems
+    .filter((item) => !regulationItems.includes(item))
+    .slice(0, TOTAL_HEADLINES);
+
+  fs.writeFileSync("headlines.json", JSON.stringify(generalItems, null, 2));
+  console.log(`Wrote ${generalItems.length} headlines to headlines.json`);
+
+  fs.writeFileSync("regulation.json", JSON.stringify(regulationItems, null, 2));
+  console.log(`Wrote ${regulationItems.length} headlines to regulation.json`);
 }
 main();
