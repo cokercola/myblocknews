@@ -1,35 +1,59 @@
 // Fetches real crypto headlines directly from public RSS feeds — no API key,
 // no signup, no paid plan. Pulls a few headlines from each source and saves
 // them to headlines.json, which the site's front end reads from.
-
 import fs from "fs";
-
 const FEEDS = [
   { url: "https://www.coindesk.com/arc/outboundfeeds/rss/", source: "CoinDesk" },
   { url: "https://cointelegraph.com/rss", source: "Cointelegraph" },
   { url: "https://decrypt.co/feed", source: "Decrypt" },
 ];
-
 const PER_FEED = 3;
 const TOTAL_HEADLINES = 8;
+
+// Strips a CDATA wrapper if present, otherwise returns the string as-is.
+// Some feeds (Cointelegraph) wrap <link> and <title> in CDATA; others
+// (CoinDesk, Decrypt) don't. This makes both cases come out clean.
+function stripCdata(value) {
+  const match = value.match(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/);
+  return (match ? match[1] : value).trim();
+}
+
+// Tries a few common RSS image patterns, in order of reliability.
+// Returns null if none are found — the frontend already handles that gracefully.
+function extractImage(block) {
+  const mediaContent = block.match(/<media:content[^>]*url=["']([^"']+)["'][^>]*>/i);
+  if (mediaContent) return mediaContent[1];
+
+  const enclosure = block.match(/<enclosure[^>]*url=["']([^"']+)["'][^>]*type=["']image[^"']*["'][^>]*>/i);
+  if (enclosure) return enclosure[1];
+
+  const mediaThumbnail = block.match(/<media:thumbnail[^>]*url=["']([^"']+)["'][^>]*>/i);
+  if (mediaThumbnail) return mediaThumbnail[1];
+
+  // Some feeds put an <img> tag inside a CDATA-wrapped <description>
+  const descImage = block.match(/<img[^>]*src=["']([^"']+)["'][^>]*>/i);
+  if (descImage) return descImage[1];
+
+  return null;
+}
 
 function extractItems(xml) {
   const items = [];
   const itemBlocks = xml.split(/<item[\s>]/i).slice(1);
   for (const block of itemBlocks) {
-    const titleMatch = block.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
+    const titleMatch = block.match(/<title>([\s\S]*?)<\/title>/i);
     const linkMatch = block.match(/<link>([\s\S]*?)<\/link>/i);
     if (titleMatch && linkMatch) {
       items.push({
-        title: titleMatch[1].trim(),
-        url: linkMatch[1].trim(),
+        title: stripCdata(titleMatch[1]),
+        url: stripCdata(linkMatch[1]),
+        image: extractImage(block),
       });
     }
     if (items.length >= PER_FEED) break;
   }
   return items;
 }
-
 async function fetchFeed(feed) {
   try {
     const response = await fetch(feed.url, {
@@ -44,18 +68,14 @@ async function fetchFeed(feed) {
     return [];
   }
 }
-
 async function main() {
   const results = await Promise.all(FEEDS.map(fetchFeed));
   const combined = results.flat().slice(0, TOTAL_HEADLINES);
-
   if (combined.length === 0) {
     console.error("No headlines fetched from any feed — leaving headlines.json unchanged.");
     process.exit(1);
   }
-
   fs.writeFileSync("headlines.json", JSON.stringify(combined, null, 2));
   console.log(`Wrote ${combined.length} headlines to headlines.json`);
 }
-
 main();
