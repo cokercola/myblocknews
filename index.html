@@ -4,20 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>myblocknews — Live Crypto Prices & News</title>
- 
-  <meta name="description" content="Live crypto prices and aggregated market news. Real-time BTC, ETH, SOL, XRP and more, plus headlines from CoinDesk, Cointelegraph, and Decrypt.">
-  <link rel="canonical" href="https://myblocknews.com/">
 
+  <meta name="description" content="Live crypto prices, aggregated market news, daily analysis, and explainers on how crypto actually works. Real-time BTC, ETH, SOL, XRP and more.">
+  <link rel="canonical" href="https://myblocknews.com/">
 <!-- Social sharing preview -->
   <meta property="og:title" content="myblocknews — clear signal, real markets">
-  <meta property="og:description" content="Live crypto prices and aggregated market news, all in one place.">
+  <meta property="og:description" content="Live crypto prices, aggregated market news, and plain-English explainers, all in one place.">
   <meta property="og:url" content="https://myblocknews.com/">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://myblocknews.com/social-preview.png">
-
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="myblocknews — clear signal, real markets">
-  <meta name="twitter:description" content="Live crypto prices and aggregated market news.">
+  <meta name="twitter:description" content="Live crypto prices, aggregated market news, and plain-English explainers.">
   <meta name="twitter:image" content="https://myblocknews.com/social-preview.png">
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/favicon.ico" sizes="any">
@@ -34,33 +32,161 @@
         <div class="slogan">clear signal, real markets</div>
       </div>
       <nav>
+        <a href="/#brief">block brief</a>
         <a href="/#markets">markets</a>
         <a href="/#news">news</a>
+        <a href="/#analysis">analysis</a>
+        <a href="/#regulation">regulation</a>
+        <a href="/#learn">learn</a>
       </nav>
     </div>
   </header>
-
   <div class="wrap">
+    <section id="brief">
+      <div class="eyebrow accent-brief">block brief &middot; JUL 12, 2026</div>
+      <article class="brief-card">
+        <h2 class="brief-headline">Quiet overnight, ETF flows steady, SEC opens comment window</h2>
+        <div class="brief-block">
+          <div class="brief-label">overnight</div>
+          <p class="brief-text">Markets traded in a narrow range through the Asia and Europe sessions. No major liquidations or exchange incidents reported.</p>
+        </div>
+        <div class="brief-block">
+          <div class="brief-label">biggest movers</div>
+          <p class="brief-text">SOL led majors, up 3.1% on rising L1 activity. ETH lagged, down 0.4% amid light selling pressure.</p>
+        </div>
+        <div class="brief-block">
+          <div class="brief-label">whale activity</div>
+          <p class="brief-text">A wallet holding roughly 4,200 BTC moved funds to a known exchange deposit address — worth watching, not yet conclusive of intent.</p>
+        </div>
+        <div class="brief-block">
+          <div class="brief-label">regulatory news</div>
+          <p class="brief-text">The SEC opened a public comment period on proposed custody rules for digital asset exchanges, running through late August.</p>
+        </div>
+        <div class="brief-block">
+          <div class="brief-label">today's events</div>
+          <p class="brief-text">CPI data releases at 8:30am ET; a major L2 network's quarterly community call is scheduled for 2pm ET.</p>
+        </div>
+      </article>
+    </section>
+    <div class="ad-slot">ad slot</div>
+
     <section id="markets">
       <div class="eyebrow accent">live markets &middot; scroll for more</div>
       <div class="ticker-scroll" id="tickerRow"></div>
     </section>
-    
+
     <section id="recap">
       <div class="eyebrow">today's market pulse</div>
       <div class="recap-card" id="recapCard"></div>
     </section>
+
+    <section id="analysis">
+      <div class="eyebrow accent-analysis">market analysis</div>
+      <div id="analysisRow">
+        <!--
+          Manually written, dated takes. Keep these short (150-300 words),
+          factual, and free of price predictions or buy/sell language —
+          that's what separates "analysis" from "financial advice" in
+          Google's eyes and keeps the disclaimer honest.
+          Add newest entries at the top.
+        -->
+        <article class="analysis-card">
+          <div class="analysis-meta">JUL 12, 2026</div>
+          <h3 class="analysis-headline">ETF inflows steady out after two volatile weeks</h3>
+          <p class="analysis-text">
+            Spot Bitcoin ETF flows leveled off this week after a stretch of sharp
+            daily swings, with net inflows landing closer to their three-month
+            average. Trading volume across major exchanges eased alongside it,
+            suggesting the market is digesting recent moves rather than reacting
+            to new catalysts. Ether funds saw a similar cooling pattern, though
+            outflows on Monday were largely offset by inflows later in the week.
+          </p>
+        </article>
+        <article class="analysis-card">
+          <div class="analysis-meta">JUL 11, 2026</div>
+          <h3 class="analysis-headline">Layer-2 activity keeps climbing even as fees stay flat</h3>
+          <p class="analysis-text">
+            Daily transaction counts across major rollups continued their
+            multi-month climb this week, even as average fees held steady —
+            a sign that throughput gains, not fee pressure, are driving the
+            increase. Bridge volume into L2s also ticked up, though it remains
+            well below the highs seen earlier this year.
+          </p>
+        </article>
+      </div>
+    </section>
     <div class="ad-slot">ad slot</div>
-    
+
     <section id="news">
       <div class="eyebrow">latest headlines</div>
       <div id="headlinesRow"></div>
     </section>
 
+    <section id="regulation">
+      <div class="eyebrow accent-regulation">regulation &amp; policy</div>
+      <div id="regulationRow"></div>
+    </section>
     <div class="ad-slot">ad slot</div>
 
-    <div class="disclaimer">not financial advice. prices are pulled live from CoinGecko's public market data; headlines are pulled from third party sources and may be delayed.</div>
+    <section id="learn">
+      <div class="eyebrow accent-learn">learn</div>
+      <div class="learn-grid">
+        <a class="learn-card" href="/learn/beginners-guide-to-crypto.html">
+          <div class="learn-card-image">
+            <svg viewBox="0 0 48 48" width="36" height="36" fill="none" stroke="var(--stripe-learn)" stroke-width="2">
+              <circle cx="24" cy="24" r="15"/>
+              <circle cx="24" cy="24" r="8"/>
+            </svg>
+          </div>
+          <div class="learn-card-body">
+            <div class="learn-card-label">basics</div>
+            <h3>Beginner's guide to crypto</h3>
+            <p>What crypto actually is and how it works, before you buy anything.</p>
+          </div>
+        </a>
+        <a class="learn-card" href="/learn/how-to-use-a-wallet.html">
+          <div class="learn-card-image">
+            <svg viewBox="0 0 48 48" width="36" height="36" fill="none" stroke="var(--stripe-learn)" stroke-width="2">
+              <rect x="7" y="13" width="34" height="24" rx="3"/>
+              <path d="M7 20h34"/>
+              <circle cx="32" cy="28" r="2.5" fill="var(--stripe-learn)" stroke="none"/>
+            </svg>
+          </div>
+          <div class="learn-card-body">
+            <div class="learn-card-label">basics</div>
+            <h3>Wallets, explained</h3>
+            <p>Hot vs. cold, custodial vs. self-custody, and how to keep yours secure.</p>
+          </div>
+        </a>
+        <a class="learn-card" href="/learn/crypto-taxes-explained.html">
+          <div class="learn-card-image">
+            <svg viewBox="0 0 48 48" width="36" height="36" fill="none" stroke="var(--stripe-learn)" stroke-width="2">
+              <rect x="12" y="6" width="24" height="36" rx="2"/>
+              <path d="M17 16h14M17 23h14M17 30h9"/>
+            </svg>
+          </div>
+          <div class="learn-card-body">
+            <div class="learn-card-label">basics</div>
+            <h3>Crypto taxes, explained</h3>
+            <p>What counts as a taxable event and what records you'll want to keep.</p>
+          </div>
+        </a>
+        <a class="learn-card" href="/learn/how-to-read-charts.html">
+          <div class="learn-card-image">
+            <svg viewBox="0 0 48 48" width="36" height="36" fill="none" stroke="var(--stripe-learn)" stroke-width="2">
+              <path d="M8 40V26M18 40V16M28 40V30M38 40V10"/>
+            </svg>
+          </div>
+          <div class="learn-card-body">
+            <div class="learn-card-label">basics</div>
+            <h3>How to read charts</h3>
+            <p>Candlesticks, volume, and the basics of reading price action.</p>
+          </div>
+        </a>
+      </div>
+    </section>
 
+    <div class="disclaimer">not financial advice. prices are pulled live from CoinGecko's public market data; headlines are pulled from third party sources and may be delayed.</div>
     <footer>&copy; <span id="year"></span> myblocknews</footer>
   </div>
   <footer class="site-footer">
@@ -69,24 +195,22 @@
       <span class="footer-logo"></span>
       <span class="footer-name">myblocknews</span>
     </div>
-
     <nav class="footer-links">
       <a href="/about.html">About</a>
       <a href="/privacy.html">Privacy Policy</a>
       <a href="/terms.html">Terms</a>
     </nav>
-
     <p class="footer-disclaimer">
       Not financial advice. Prices are pulled live from CoinGecko's public market data;
       headlines are pulled from third-party sources and may be delayed.
     </p>
-
     <p class="footer-copyright">&copy; 2026 myblocknews. All rights reserved.</p>
   </div>
 </footer>
   <script src="/ticker.js"></script>
   <script src="/headlines.js"></script>
   <script src="/recap.js"></script>
+  <script src="/regulation.js"></script>
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
