@@ -77,21 +77,15 @@ function buildBody(markets, mover) {
   );
   const gainer = sorted[0];
   const loser = sorted[sorted.length - 1];
-  const avgChange =
-    markets.reduce((sum, m) => sum + m.price_change_percentage_24h, 0) / markets.length;
-
-  const overallTone =
-    avgChange > 1 ? "a broadly positive day" : avgChange < -1 ? "a broadly negative day" : "a mixed, range-bound day";
 
   const gainerSym = COINS.find((c) => c.id === gainer.id).symbol;
   const loserSym = COINS.find((c) => c.id === loser.id).symbol;
   const moverSym = COINS.find((c) => c.id === mover.id).symbol;
 
   return (
-    `Crypto markets saw ${overallTone}. ` +
-    `${gainerSym} led gainers at ${formatPct(gainer.price_change_percentage_24h)}, ` +
-    `while ${loserSym} lagged at ${formatPct(loser.price_change_percentage_24h)}. ` +
-    `${moverSym} was the day's biggest mover overall, moving ${formatPct(mover.price_change_percentage_24h)} over the past 24 hours.`
+    `Top gainer: ${gainerSym} ${formatPct(gainer.price_change_percentage_24h)}  ·  ` +
+    `Top laggard: ${loserSym} ${formatPct(loser.price_change_percentage_24h)}  ·  ` +
+    `Biggest mover: ${moverSym} ${formatPct(mover.price_change_percentage_24h)}`
   );
 }
 
@@ -119,7 +113,7 @@ async function main() {
 
   const recap = {
     date: today,
-    headline: `Daily market summary — ${today}`,
+    headline: `Market snapshot — ${today}`,
     body: buildBody(markets, mover),
     mover: {
       symbol: COINS.find((c) => c.id === mover.id).symbol,
