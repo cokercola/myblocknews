@@ -707,3 +707,54 @@ article.body .related {
   border-top: 0.5px solid var(--border);
 }
 article.body .related .eyebrow { margin-bottom: 10px; }
+:root {
+  --stripe-offsignal: #B85C38;
+}
+
+.eyebrow.accent-offsignal { color: var(--stripe-offsignal); }
+
+.offsignal-card {
+  background: var(--panel);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--stripe-offsignal);
+  border-radius: 8px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+}
+.offsignal-card:last-child { margin-bottom: 0; }
+
+.offsignal-meta {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+  margin-bottom: 6px;
+}
+
+.offsignal-headline {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text);
+  margin: 0 0 8px;
+}
+
+.offsignal-text {
+  font-family: 'Source Serif 4', serif;
+  font-size: 14px;
+  line-height: 1.65;
+  color: #2E3A32;
+  margin: 0;
+}
+
+.offsignal-readmore {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--stripe-offsignal);
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+.offsignal-readmore:hover { text-decoration: underline; }
+
+header.site-header nav a.nav-offsignal { color: #E8A688; }
+header.site-header nav a.nav-offsignal:hover { color: #F0C0AD; }
