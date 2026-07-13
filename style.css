@@ -28,7 +28,7 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.wrap { max-width: 680px; margin: 0 auto; padding: 0 32px; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 32px; }
 
 /* Header */
 header.site-header {
@@ -41,9 +41,9 @@ header.site-header {
 }
 
 .header-inner {
-  max-width: 680px;
+  max-width: 760px;
   margin: 0 auto;
-  padding: 22px 24px;
+  padding: 22px 32px;
   display: flex;
   align-items: center;
   justify-content: space-between;
