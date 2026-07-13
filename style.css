@@ -41,18 +41,32 @@ header.site-header {
 }
 
 .header-inner {
-  max-width: 760px;
+  max-width: 840px;
   margin: 0 auto;
   padding: 22px 32px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-wrap: wrap;
   gap: 12px;
 }
 
-.brand { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.brand-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.brand-sub {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
 .logo-mark {
   display: grid;
   grid-template-columns: repeat(2, 9px);
@@ -72,10 +86,12 @@ header.site-header {
 
 header.site-header nav {
   display: flex;
-  gap: 18px;
+  flex-wrap: wrap;
+  gap: 14px 18px;
   font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
   color: var(--header-nav);
+  margin-left: auto;
 }
 header.site-header nav a { color: var(--header-nav); text-decoration: none; }
 header.site-header nav a:hover { color: var(--header-text); }
