@@ -182,7 +182,6 @@ article p {
   font-size: 15px;
   line-height: 1.75;
   color: #2E3A32;
-  max-width: 560px;
 }
 article h1 {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -191,7 +190,6 @@ article h1 {
   line-height: 1.4;
   color: var(--text);
   margin: 0 0 6px;
-  max-width: 560px;
 }
 .byline { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-dim); margin-bottom: 16px; }
 
