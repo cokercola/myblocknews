@@ -6,6 +6,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+    "url": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-5.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
     "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
@@ -16,12 +22,6 @@
     "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b36b75d01d091c23de67fe9b5ef996a83c4ad96d-742x418.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
@@ -36,15 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
-    "url": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-157300-bolivia-banco-bisa-usdt-custody.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "New Hampshire Follows Bitcoin Reserve With &#39;Blockchain Basic Laws&#39; Signing",
     "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
   }
 ]
