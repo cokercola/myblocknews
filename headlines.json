@@ -1,14 +1,32 @@
 [
   {
-    "title": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
-    "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0dcb7e70fce0bac1a8a2dfe771435937149fb242-6720x4480.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b89f0ae67fa33af2fb4043da7154a0dfd4f58c9b-3231x1981.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "South Korea to test tokenized government bonds with CBDC in 2027",
-    "url": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means.jpg",
+    "title": "AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says",
+    "url": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-amm-are-dead.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
+    "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin",
+    "url": "https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0cc005c0f5876f5701ad9ba567437070ea3d389-3840x2160.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
+    "url": "https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dormant-bitcoin-wallets-are-now-the-biggest-quantum-risk-heres-why.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +36,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
-    "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-erosion-etf-2.jpg",
+    "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
+    "url": "https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bull-bear-seesaw-new2.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/Decrypt-Wallpaper-Format-1600-x-900-px-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
-    "url": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/15457391afc651ccf294e8f091b300b4653d35e7-1024x768.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   }
 ]
