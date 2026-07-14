@@ -1,8 +1,20 @@
 [
   {
-    "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
-    "url": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-capital-gains-tax-italy-vs-france-vs-germany.jpg",
+    "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
+    "url": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-erisx-raises-275-mln-from-fidelity-nasdaq-ventures-and-others-details-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
+    "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
-    "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png",
+    "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+    "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbfc674b5030a84178a832fe0429bc65125ae8fb-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
-    "url": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: Saylor&#39;s Strategy Hoards Cash, Doesn&#39;t Buy BTC",
-    "url": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
