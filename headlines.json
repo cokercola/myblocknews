@@ -1,14 +1,8 @@
 [
   {
-    "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
-    "url": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
-    "url": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
+    "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
+    "url": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-capital-gains-tax-italy-vs-france-vs-germany.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +12,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
-    "url": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12fe7eb26a4eea9c363415ac7d8f62ab9be994dd-1360x762.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+    "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb3faad30a017cf2a7ec33694fc3ee05fd3cc52f-6016x4016.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Anchorage Digital expands Tron support with institutional TRX staking",
-    "url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-digital-asset-exchanges-can-meet-institutional-investors-need-for-speed2.png",
+    "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
+    "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png",
     "source": "Cointelegraph"
   },
   {
@@ -36,15 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
-    "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
+    "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbfc674b5030a84178a832fe0429bc65125ae8fb-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
-    "url": "https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg",
+    "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
+    "url": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Morning Minute: Saylor&#39;s Strategy Hoards Cash, Doesn&#39;t Buy BTC",
+    "url": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]
