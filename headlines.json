@@ -1,8 +1,26 @@
 [
   {
-    "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
-    "url": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ea058b7f62ca56c162d4b89b8cebd1e70f86b38-3500x2333.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
+    "url": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
+    "url": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
+    "url": "https://decrypt.co/373488/bitcoin-ticks-up-to-64k-following-largest-inflation-slowdown-in-six-years",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
+    "url": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12fe7eb26a4eea9c363415ac7d8f62ab9be994dd-1360x762.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,33 +36,15 @@
     "source": "Decrypt"
   },
   {
+    "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
+    "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
     "url": "https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: Saylor&#39;s Strategy Hoards Cash, Doesn&#39;t Buy BTC",
-    "url": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says",
-    "url": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aaa1c4de951ea7e48066d0ac8eb4a2c6c942c369-1333x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-    "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sam-altman-polymarket.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
-    "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
