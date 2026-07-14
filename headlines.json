@@ -1,5 +1,41 @@
 [
   {
+    "title": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+    "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0dcb7e70fce0bac1a8a2dfe771435937149fb242-6720x4480.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
+    "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+    "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "White House crypto adviser Patrick Witt to report for military training: Report",
+    "url": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
+    "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/Decrypt-Wallpaper-Format-1600-x-900-px-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
     "url": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/15457391afc651ccf294e8f091b300b4653d35e7-1024x768.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -10,41 +46,5 @@
     "url": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/us-government-bitcoin.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
-    "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
-    "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c73c945595228352c4688aa08e65cbcc5eac3811-2863x1086.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
-    "url": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-5.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
-    "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/Decrypt-Wallpaper-Format-1600-x-900-px-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
-    "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aa3e1bbfa6d9c29a9094006b934854fec90c84fc-810x418.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "New Hampshire Follows Bitcoin Reserve With &#39;Blockchain Basic Laws&#39; Signing",
-    "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
