@@ -1,14 +1,26 @@
 [
   {
-    "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
-    "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/def0d98b21aeaaed3c0847566a33f7c63142d271-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+    "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-    "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+    "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Securitize, Cantor target tokenized IPOs for public markets",
+    "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
+    "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/def0d98b21aeaaed3c0847566a33f7c63142d271-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,15 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-    "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0aa24c6fe6502b1cfa5212aeee2d231838905fbb-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
-    "url": "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/396e7f6ffefd9660e8a3e578e9e838ffbedae34e-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+    "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
