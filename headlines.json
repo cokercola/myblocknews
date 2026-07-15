@@ -1,20 +1,32 @@
 [
   {
+    "title": "The privacy paradox of protecting kids online",
+    "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2c178e277aef38549adc820054bcf42a1d7e5d6-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/7552b571-76b5-4748-93ec-700e9cd6eeff-2.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Morning Minute: Crypto Rips on Cool CPI",
     "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
-    "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0726e00d03eb485a165e6a44808298fb594cd97c-1280x856.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a39a5a5c2bfa63c4f773a6ab3f70e9634da4f5e-6960x4640.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Japan passes crypto overhaul to bring digital assets under financial rules",
-    "url": "https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-bills-compared-stable-act.png",
+    "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
+    "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-does-robinhood-chain-finally-change-the-investment-case-for-eth.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,15 +36,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
-    "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0dea9de473d44b83caea8d173fa793134cc73e9-2561x1726.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "South Korea to bring digital assets under new state asset management system",
-    "url": "https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
-    "url": "https://cointelegraph.com/markets/bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/management-control-panel-crypto-trading.jpg",
-    "source": "Cointelegraph"
   }
 ]
