@@ -1,9 +1,9 @@
 [
   {
-    "title": "Kalshi says CFTC, Michigan orders leave it in ‘impossible position’",
-    "url": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/court-vs-kalshi-2.jpg",
-    "source": "Cointelegraph"
+    "title": "Stripe mounts blockbuster $53 billion bid to buy PayPal",
+    "url": "https://www.coindesk.com/business/2026/07/15/stripe-mounts-blockbuster-usd53-billion-bid-to-buy-paypal",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/06c891c5dfc1c6bd0e1d2b6c82924f46bfdeecdc-3662x2328.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
@@ -16,5 +16,11 @@
     "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/93c94ced3cbe9ae13b4c8ce561afc9ffc375344d-4031x2267.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Kalshi says CFTC, Michigan orders leave it in ‘impossible position’",
+    "url": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/court-vs-kalshi-2.jpg",
+    "source": "Cointelegraph"
   }
 ]
