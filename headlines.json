@@ -1,5 +1,29 @@
 [
   {
+    "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+    "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/tribune-hearing-congress.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet &#39;Was Wrong&#39;",
+    "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+    "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+    "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
     "url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png",
@@ -12,39 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
-    "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-    "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/7552b571-76b5-4748-93ec-700e9cd6eeff-2.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis",
-    "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "The privacy paradox of protecting kids online",
     "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2c178e277aef38549adc820054bcf42a1d7e5d6-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
-    "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-does-robinhood-chain-finally-change-the-investment-case-for-eth.jpg",
-    "source": "Cointelegraph"
+    "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+    "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
+    "source": "Decrypt"
   }
 ]
