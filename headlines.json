@@ -1,8 +1,14 @@
 [
   {
-    "title": "Crypto steadies as Middle East tensions counter U.S. inflation report boost",
-    "url": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73ef5b6e4733b16d7108f91d1cc30f70a63ac3ee-1854x978.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Morning Minute: Crypto Rips on Cool CPI",
+    "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
+    "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0726e00d03eb485a165e6a44808298fb594cd97c-1280x856.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,10 +18,16 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Team Behind Ethereum&#39;s Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
-    "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
+    "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
+    "url": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/justice-old-bailey-decrypt-style-1-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
+    "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0dea9de473d44b83caea8d173fa793134cc73e9-2561x1726.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "South Korea to bring digital assets under new state asset management system",
@@ -24,27 +36,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
-    "url": "https://decrypt.co/373520/us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/hm-treasury-uk-decrypt-style-gID_7.jpg@png",
+    "title": "Team Behind Ethereum&#39;s Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
+    "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%",
-    "url": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
     "url": "https://cointelegraph.com/markets/bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/management-control-panel-crypto-trading.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
-    "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
