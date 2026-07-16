@@ -1,5 +1,17 @@
 [
   {
+    "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+    "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51a62814bc17d19cbfe90f63c3a01e035093d234-3210x2408.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
+    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
     "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,27 +24,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
     "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-defillama-hacks-analysis.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
-    "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/def0d98b21aeaaed3c0847566a33f7c63142d271-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-    "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
