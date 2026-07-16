@@ -6,16 +6,16 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
     "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
+    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
@@ -30,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Securitize, Cantor target tokenized IPOs for public markets",
-    "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.jpg",
-    "source": "Cointelegraph"
+    "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+    "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5341695125430c39d79f4aad26f660a9eb8122af-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
