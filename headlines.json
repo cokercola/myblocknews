@@ -1,8 +1,26 @@
 [
   {
+    "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+    "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It&#39;s Fully Open Source",
+    "url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/mira-murati-openai-gID_4.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
     "url": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
+    "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethical-considerations-in-ai-development-and-deployment.png",
     "source": "Cointelegraph"
   },
   {
@@ -18,33 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
-    "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethical-considerations-in-ai-development-and-deployment.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
-    "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-    "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36131f663bac2a575475bac36ff388961161adc2-3000x1688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
     "url": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "Morning Minute: Base Hands Its App Over to Cobie",
-    "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+    "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
+    "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
