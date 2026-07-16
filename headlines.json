@@ -1,26 +1,20 @@
 [
   {
-    "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
-    "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54946ad2d6ad14a79c141bb3f84a2e8730394705-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
-    "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/memecoin-robinhood.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
     "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
-    "url": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/analitycs2021-hype.jpg",
+    "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+    "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54946ad2d6ad14a79c141bb3f84a2e8730394705-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+    "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hihodlingin2025themostwidelyusedbitcoinstrategyexplained.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -30,15 +24,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
-    "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
+    "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/memecoin-robinhood.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -46,5 +34,17 @@
     "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/bonsai-ai-gID_5.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+    "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
+    "url": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/analitycs2021-hype.jpg",
+    "source": "Cointelegraph"
   }
 ]

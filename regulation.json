@@ -1,32 +1,38 @@
 [
   {
+    "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
+    "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "US Senate unanimously adopts resolution opposing clemency for SBF",
+    "url": "https://cointelegraph.com/news/senate-adopts-resolution-opposing-clemency-sbf-ftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sbf-sam-bankman-fried-portrait-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
+    "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+    "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa54fa83edc34779ea9aabaed9edde8c81ce8197-3589x2019.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Tether invests $20M into Argentine neobank Ualá",
+    "url": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tether-development.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
     "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/51a62814bc17d19cbfe90f63c3a01e035093d234-3210x2408.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
-    "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
-    "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
-    "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-defillama-hacks-analysis.png",
-    "source": "Cointelegraph"
   }
 ]
