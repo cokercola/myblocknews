@@ -1,5 +1,23 @@
 [
   {
+    "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+    "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d62dea31c05f153f4407ebc45f48ddfab943da6-1280x905.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+    "url": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
+    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
     "url": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac85e5d9c09d2d2891e91e4bff21c568b741187b-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
-    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
+    "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
+    "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,27 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-    "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
     "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/bonsai-ai-gID_5.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-    "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Revolut receives in-principle approval from UAE authorities for crypto services",
-    "url": "https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-license-blockchain.jpg",
-    "source": "Cointelegraph"
   }
 ]
