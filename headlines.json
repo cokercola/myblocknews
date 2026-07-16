@@ -1,14 +1,44 @@
 [
   {
+    "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "XRP Can&#39;t Keep Up as Bitcoin Takes a Breather: Analysis",
+    "url": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
+    "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
+    "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethical-considerations-in-ai-development-and-deployment.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
+    "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
     "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/36131f663bac2a575475bac36ff388961161adc2-3000x1688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
-    "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-experienced-traders-prefer-to-trade-on-desktop-computers-a-new-study-reveals3.jpg",
+    "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
+    "url": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
     "source": "Cointelegraph"
   },
   {
@@ -16,35 +46,5 @@
     "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "The Clarity Act is the most important consumer protection effort in years",
-    "url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d3a66f1182830d8b47d953c41b204b5f1b5b2d4-6195x4130.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
-    "url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
-    "url": "https://decrypt.co/373631/feds-arrest-florida-man-over-video-game-malware-that-stole-220k-in-crypto",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82a7c2a9cd96f741bc20c04b5beafc8594a4ff4b-5120x2880.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
-    "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto.png",
-    "source": "Cointelegraph"
   }
 ]
