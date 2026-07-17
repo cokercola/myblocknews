@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | myblocknews</title>
+
+  <meta name="description" content="Get in touch with myblocknews — questions, corrections, tips, or feedback.">
+  <link rel="canonical" href="https://myblocknews.com/contact.html">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .static-page {
+      max-width: 560px;
+      margin: 48px auto;
+      padding: 0 24px;
+      line-height: 1.7;
+      color: #1e293b;
+    }
+    .static-page h1 {
+      font-size: 28px;
+      margin-bottom: 8px;
+      color: #0f1c33;
+    }
+    .static-page .updated {
+      font-size: 13px;
+      color: #64748b;
+      margin-bottom: 32px;
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 24px;
+      font-size: 13px;
+      color: #0d9488;
+      text-decoration: none;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .contact-form label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: #334155;
+      margin-bottom: 6px;
+      margin-top: 18px;
+    }
+    .contact-form input,
+    .contact-form select,
+    .contact-form textarea {
+      width: 100%;
+      font-family: inherit;
+      font-size: 15px;
+      padding: 10px 12px;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: #fff;
+      color: #0f1c33;
+      box-sizing: border-box;
+    }
+    .contact-form input:focus,
+    .contact-form select:focus,
+    .contact-form textarea:focus {
+      outline: none;
+      border-color: #0d9488;
+      box-shadow: 0 0 0 3px rgba(13,148,136,0.12);
+    }
+    .contact-form textarea { resize: vertical; min-height: 120px; }
+
+    /* honeypot field — hidden from real visitors, catches basic bots */
+    .hp-field {
+      position: absolute;
+      left: -9999px;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+    }
+
+    .submit-btn {
+      margin-top: 24px;
+      background: #0d9488;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 12px 22px;
+      font-size: 15px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+    .submit-btn:hover { background: #0b7c72; }
+    .submit-btn:disabled { background: #94a3b8; cursor: not-allowed; }
+
+    .form-status {
+      margin-top: 16px;
+      font-size: 14px;
+      display: none;
+    }
+    .form-status.success { display: block; color: #0b7c56; }
+    .form-status.error { display: block; color: #b91c1c; }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;">
+        <span class="footer-logo"></span>
+        <span style="color:#f1f5f9;font-weight:700;font-size:18px;">my<strong>blocknews</strong></span>
+        <span style="color:#94a3b8;font-size:12px;margin-left:8px;">clear signal, real markets</span>
+      </a>
+      <nav>
+        <a href="/#markets" style="color:#cbd5e1;text-decoration:none;margin-left:20px;font-size:13px;">markets</a>
+        <a href="/#news" style="color:#cbd5e1;text-decoration:none;margin-left:20px;font-size:13px;">news</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="static-page">
+    <a href="/" class="back-link">&larr; Back to markets</a>
+    <h1>Contact Us</h1>
+    <p class="updated">Questions, corrections, tips, or feedback — we read every message.</p>
+
+    <form class="contact-form" id="contactForm">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required autocomplete="name">
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required autocomplete="email">
+
+      <label for="reason">Reason for contact</label>
+      <select id="reason" name="reason">
+        <option value="General question">General question</option>
+        <option value="Correction / factual error">Correction / factual error</option>
+        <option value="Story tip">Story tip</option>
+        <option value="Partnership / advertising">Partnership / advertising</option>
+        <option value="Other">Other</option>
+      </select>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <!-- Honeypot: real users never see or fill this in; bots often do -->
+      <div class="hp-field" aria-hidden="true">
+        <label for="company">Company</label>
+        <input type="text" id="company" name="company" tabindex="-1" autocomplete="off">
+      </div>
+
+      <button type="submit" class="submit-btn" id="submitBtn">Send message</button>
+      <div class="form-status" id="formStatus"></div>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo"></span>
+        <span class="footer-name">myblocknews</span>
+      </div>
+      <nav class="footer-links">
+        <a href="/about.html">About</a>
+        <a href="/privacy.html">Privacy Policy</a>
+        <a href="/terms.html">Terms</a>
+        <a href="/contact.html">Contact</a>
+      </nav>
+      <p class="footer-disclaimer">
+        Not financial advice. Prices are pulled live from CoinGecko's public market data;
+        headlines are pulled from third-party sources and may be delayed.
+      </p>
+      <p class="footer-copyright">&copy; 2026 myblocknews. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Paste the Web App URL you get after deploying the Apps Script (see contact-form-setup.md)
+    const SHEETS_ENDPOINT = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+
+    const form = document.getElementById('contactForm');
+    const statusEl = document.getElementById('formStatus');
+    const btn = document.getElementById('submitBtn');
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      // Honeypot check — if this hidden field has a value, silently treat as success
+      if (document.getElementById('company').value) {
+        form.reset();
+        statusEl.textContent = 'Thanks — your message has been sent.';
+        statusEl.className = 'form-status success';
+        return;
+      }
+
+      if (SHEETS_ENDPOINT.indexOf('PASTE_YOUR') === 0) {
+        statusEl.textContent = 'Form isn\'t connected yet — add your Apps Script URL in contact.html.';
+        statusEl.className = 'form-status error';
+        return;
+      }
+
+      btn.disabled = true;
+      btn.textContent = 'Sending...';
+      statusEl.className = 'form-status';
+
+      const payload = {
+        name: document.getElementById('name').value,
+        email: document.getElementById('email').value,
+        reason: document.getElementById('reason').value,
+        message: document.getElementById('message').value,
+        page: window.location.href
+      };
+
+      try {
+        await fetch(SHEETS_ENDPOINT, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'text/plain' },
+          body: JSON.stringify(payload)
+        });
+        // no-cors means we can't read the response, so we assume success if fetch didn't throw
+        form.reset();
+        statusEl.textContent = 'Thanks — your message has been sent. We\'ll get back to you soon.';
+        statusEl.className = 'form-status success';
+      } catch (err) {
+        statusEl.textContent = 'Something went wrong sending your message. Please try again in a moment.';
+        statusEl.className = 'form-status error';
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Send message';
+      }
+    });
+  </script>
+</body>
+</html>
