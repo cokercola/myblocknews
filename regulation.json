@@ -1,15 +1,21 @@
 [
   {
-    "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-    "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5299ecc154fdbe24a248c1ed8a93c29d1a1a3b6-7093x4731.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "US indicts crypto investor over alleged $20M fraud scheme",
+    "url": "https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/man-hacker-breaking-blockchain.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
     "url": "https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
+    "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5299ecc154fdbe24a248c1ed8a93c29d1a1a3b6-7093x4731.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
