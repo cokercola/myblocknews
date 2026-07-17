@@ -6,9 +6,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-project-polygon-explained.png",
+    "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
+    "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-76176-bitcoin-stages-picture-perfect-rebound-at-58-5k-as-crypto-liquidations-top-875m.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,21 +18,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
-    "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-meaning-examples-and-penalties-detection.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
     "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
-    "url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-107341-bitcoin-touches-30k-as-btc-bulls-well-positioned-for-weekly-3-2-billion-options.jpg",
+    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
+    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-project-polygon-explained.png",
     "source": "Cointelegraph"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
+    "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-meaning-examples-and-penalties-detection.jpg",
+    "source": "Cointelegraph"
   }
 ]
