@@ -1,14 +1,14 @@
 [
   {
-    "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-    "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+    "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37e2accde15c1395052adccd4d7862c477e046c4-2879x1093.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-    "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-76176-bitcoin-stages-picture-perfect-rebound-at-58-5k-as-crypto-liquidations-top-875m.jpg",
+    "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
+    "url": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bybit-giant-is-entering-cryptoheres-why-it-matters.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +18,27 @@
     "source": "Decrypt"
   },
   {
+    "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+    "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Trump Media sells Wall Street low-latency access to Trump posts",
+    "url": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/token-scrolling-truth-social-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
     "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-project-polygon-explained.png",
+    "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+    "url": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-in-malaysia.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-    "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
-    "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-meaning-examples-and-penalties-detection.jpg",
-    "source": "Cointelegraph"
   }
 ]
