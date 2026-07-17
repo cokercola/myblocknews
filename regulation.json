@@ -1,8 +1,20 @@
 [
   {
+    "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+    "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e473e13d2b998775c2c41a1456513cc8710f6cd7-2461x1385.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
     "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
+    "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -10,12 +22,6 @@
     "url": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
-    "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
@@ -27,12 +33,6 @@
     "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
     "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
-    "url": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.jpg",
     "source": "Cointelegraph"
   }
 ]
