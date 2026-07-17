@@ -1,15 +1,27 @@
 [
   {
+    "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
+    "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fff5c608bec057a9fea03967f846f3fd7b034f1a-1310x724.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/16codemonitor-bitcoin.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud",
+    "url": "https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
     "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2d5d3339e6f49e40f4fbaf1d54d98fc286fe6d34-1707x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
@@ -18,33 +30,21 @@
     "source": "CoinDesk"
   },
   {
+    "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+    "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
     "url": "https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+    "title": "Live markets: Bitcoin slips below $63,000 as the chip rout goes global",
     "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
-    "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da2616937900c42d04e267c199e5905a24c2631d-1854x992.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "UK sentences 2 hackers tied to $115M crypto ransom scheme",
-    "url": "https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-artificial-intelligence-is-used-in-fraud-detection-france.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
-    "url": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]

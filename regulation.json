@@ -1,8 +1,20 @@
 [
   {
+    "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
+    "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
     "url": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
+    "url": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/crypto-com-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -18,21 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
-    "url": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/crypto-com-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "ESMA adds 14 new CASPs to MiCA register as licensing slows",
     "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "US indicts crypto investor over alleged $20M fraud scheme",
-    "url": "https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/man-hacker-breaking-blockchain.jpg",
     "source": "Cointelegraph"
   }
 ]
