@@ -1,5 +1,11 @@
 [
   {
+    "title": "France orders country's internet service providers to block Polymarket",
+    "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abbbcedbcd28071b80e9847db978483356a209da-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -12,21 +18,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "DOG Mode explains Bitcoin's next governance fight",
-    "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d7fa246e46362389d78474910933c67a424a500-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
     "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-blackcat-ransomware-in-crypto.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-    "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "DOG Mode explains Bitcoin's next governance fight",
+    "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d7fa246e46362389d78474910933c67a424a500-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -36,15 +36,15 @@
     "source": "Decrypt"
   },
   {
+    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+    "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "FTX to distribute $900M to creditors in fifth payment round",
     "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
-    "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
