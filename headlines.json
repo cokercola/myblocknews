@@ -1,14 +1,20 @@
 [
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
     "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/15e62bd5efc1b1675e308c2ac95abd54f8af04d7-2046x1151.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "FTX to distribute $900M to creditors in fifth payment round",
-    "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png",
+    "title": "Kaspersky identifies malware framework targeting crypto investors",
+    "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-blackcat-ransomware-in-crypto.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,12 +30,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-    "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-crypto-over-cash2.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
     "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -42,9 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Consensys unknowingly outsourced developer work to North Korean",
-    "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png",
+    "title": "FTX to distribute $900M to creditors in fifth payment round",
+    "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png",
     "source": "Cointelegraph"
   }
 ]
