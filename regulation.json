@@ -12,21 +12,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-    "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "French gambling regulator orders ISPs to block Polymarket",
     "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-polymarket.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Crypto executives say digital native generations may never need a bank account",
-    "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/be732edd1c120ca3902e43a4b7381f1f82c4ae8d-2992x2000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+    "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -34,5 +28,11 @@
     "url": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Crypto executives say digital native generations may never need a bank account",
+    "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/be732edd1c120ca3902e43a4b7381f1f82c4ae8d-2992x2000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
