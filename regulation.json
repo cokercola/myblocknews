@@ -1,5 +1,11 @@
 [
   {
+    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+    "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-koreas-crypto-market-is-strengthening-but-upbit-investigation-may-have-decelerated-it3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
     "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -28,11 +34,5 @@
     "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c40997001bd5028b0bdd0c21c50fed960c5e0188-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-    "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-101-2.png",
-    "source": "Cointelegraph"
   }
 ]
