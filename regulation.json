@@ -1,15 +1,27 @@
 [
   {
-    "title": "Nigerian president signs order on approach to crypto regulation, taxes",
-    "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg",
+    "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
+    "url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ponzi-vs-pyramid-schemes-whats-the-difference.png",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Russia&#39;s First Comprehensive Crypto Law Is Two Votes Away From Passing",
+    "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
     "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c048a2338d0b73e774b0a8dfd7a95a19bfd35436-3086x1554.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Nigerian president signs order on approach to crypto regulation, taxes",
+    "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
@@ -22,17 +34,5 @@
     "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-    "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbb3364cc5b31a27c0f46029efe808d54bd98a8e-1920x1446.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here&#39;s What That Means",
-    "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
