@@ -1,39 +1,21 @@
 [
   {
-    "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
-    "url": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5c6f2f40eef8241b0c5b9c8b06a52b791c00b3c-1862x998.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week",
-    "url": "https://cointelegraph.com/markets/trader-preserves-67k-btc-price-target-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/shooting-graph-bitcoin-1.jpg",
+    "title": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
+    "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/brandt-101.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-    "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+    "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+    "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
-    "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe40a8bc86378b21cc13a4982e5041c0a41305c0-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
+    "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-    "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
-    "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/CharlesHoskinson-DecryptStyle2-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -42,9 +24,27 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
-    "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
+    "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
+    "url": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Strategy&#39;s Michael Saylor Makes 110-Point Case Against Bitcoin&#39;s BIP-110",
+    "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
+    "url": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-days-of-prediction-market-online-conference-roundup.jpg",
+    "source": "Cointelegraph"
   }
 ]
