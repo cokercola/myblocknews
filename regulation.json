@@ -1,5 +1,11 @@
 [
   {
+    "title": "Nigerian president signs order on approach to crypto regulation, taxes",
+    "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
     "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c048a2338d0b73e774b0a8dfd7a95a19bfd35436-3086x1554.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,22 +18,16 @@
     "source": "CoinDesk"
   },
   {
-    "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here&#39;s What That Means",
-    "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
     "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
-    "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-cryptocurrency-regulations-in-vietnam-1.jpg",
-    "source": "Cointelegraph"
+    "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here&#39;s What That Means",
+    "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
