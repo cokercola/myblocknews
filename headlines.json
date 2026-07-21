@@ -1,8 +1,38 @@
 [
   {
+    "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
+    "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/wallet3.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+    "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
+    "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
     "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/401bfec40039dbd71d0f355d9682b235969fc70b-6808x4539.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
+    "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+    "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e660c532346d919f78f3c393c6d9e50cfb205d01-3840x2160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -15,36 +45,6 @@
     "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
     "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
-    "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e660c532346d919f78f3c393c6d9e50cfb205d01-3840x2160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "MEXC adds Bittensor TAO staking for its global user base",
-    "url": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-staking-explained.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Jack Mallers Quits Twenty One Capital as Tether&#39;s Bitcoin Merger Collapses",
-    "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
-    "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-crypto-price-rise-step-growth-stairs-ladder-investment-western-union.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
-    "url": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
