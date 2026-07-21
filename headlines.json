@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f541dec5f8defc49e838f4bdf43486810a8d38ad-3465x2131.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+    "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
     "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bc4746bd88f62ee24008ae1df0f138b3ba05355-2672x1646.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,39 +24,27 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
     "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
     "source": "Decrypt"
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
+    "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3f0cfee8f1f06171ffa020b5d826d65a44274c6-2143x1277.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
     "url": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pakistan-looks-toward-crypto-regulation.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
-    "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/401bfec40039dbd71d0f355d9682b235969fc70b-6808x4539.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
-    "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/wallet3.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
-    "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
