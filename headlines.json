@@ -1,5 +1,23 @@
 [
   {
+    "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+    "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1e34e35213ece0dee4183be72e6124f5c8f10b0d-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "S&P launches blockchain fundamentals index for digital assets",
+    "url": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq-crypto-etf.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Coinbase Wants to Be Canada&#39;s One-Stop Shop for Stocks, Crypto and Prediction Markets",
+    "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
     "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5252a6024fe560989b4f82445716c6305a44a313-5704x3958.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -28,23 +46,5 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Alibaba&#39;s New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-    "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
-    "url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bookclarity.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Franklin Templeton Says Agentic AI Is Crypto&#39;s &#39;Killer Use Case&#39;",
-    "url": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
