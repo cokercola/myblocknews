@@ -1,15 +1,21 @@
 [
   {
+    "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+    "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
     "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/telegram-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+    "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready &#39;Global Dollar Bank&#39;",
@@ -18,21 +24,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
-    "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-    "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
-    "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3f0cfee8f1f06171ffa020b5d826d65a44274c6-2143x1277.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
