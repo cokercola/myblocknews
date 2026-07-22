@@ -1,9 +1,39 @@
 [
   {
+    "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+    "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5252a6024fe560989b4f82445716c6305a44a313-5704x3958.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
+    "url": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-polymarket-and-augur-predict-the-next-us-elections-crypto.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
+    "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
     "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Alibaba&#39;s New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
+    "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
@@ -12,39 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move",
-    "url": "https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029",
-    "url": "https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
-    "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-    "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5423e97356cd82dcc3ceed6f9788bc74c34a4f3b-3000x1738.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-    "url": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/lawsuit-litigation-court-tax.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
-    "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png",
+    "title": "Franklin Templeton Says Agentic AI Is Crypto&#39;s &#39;Killer Use Case&#39;",
+    "url": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
