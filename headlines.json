@@ -1,8 +1,38 @@
 [
   {
-    "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+    "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
     "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+    "url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bookclarity.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move",
+    "url": "https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029",
+    "url": "https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
+    "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+    "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5423e97356cd82dcc3ceed6f9788bc74c34a4f3b-3000x1738.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,39 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
-    "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
     "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-we-talk-to-industry-participants.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-    "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5423e97356cd82dcc3ceed6f9788bc74c34a4f3b-3000x1738.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "The digital euro: Surveillance money, or a better alternative to cash?",
-    "url": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Justin Sun&#39;s HTX &#39;Rotating&#39; On-Chain Wallets Amid UK Sanctions: TRM Labs",
-    "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/htx-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
