@@ -1,9 +1,21 @@
 [
   {
-    "title": "Coinbase's corporate customers can now accept payments from AI agents",
-    "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+    "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
+    "url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-robinhood-down-several-times-as-dj-sees-biggest-one-day-gains.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin May Have Already Bottomed—If the Fed Helps, Says Grayscale",
+    "url": "https://decrypt.co/374156/bitcoin-price-already-bottomed-fed-helps-grayscale",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
@@ -12,10 +24,16 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
-    "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+    "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It&#39;s Working",
+    "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/Tokenized-Cow-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Coinbase's corporate customers can now accept payments from AI agents",
+    "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Here’s why the CLARITY Act’s ethics deal may be so hard to reach",
@@ -24,27 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
-    "url": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8fcaabd55769e9d3a3a4778cf59bffb35f71375-5568x3712.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power",
-    "url": "https://cointelegraph.com/news/bitcoin-treasury-firm-empery-digital-invests-20m-in-ai-data-center-developer-cardinal-data-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/apple-ai.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
-    "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg@png",
+    "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+    "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
