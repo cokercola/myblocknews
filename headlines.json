@@ -1,8 +1,14 @@
 [
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Coinbase's corporate customers can now accept payments from AI agents",
+    "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
+    "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -12,15 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8fcaabd55769e9d3a3a4778cf59bffb35f71375-5568x3712.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Fears of AI-driven DeFi hack epidemic overstated for now — but not for long",
-    "url": "https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-ai-driven-hacks-are-testing-whether-defi-can-still-be-trusted.jpg",
+    "title": "Here’s why the CLARITY Act’s ethics deal may be so hard to reach",
+    "url": "https://cointelegraph.com/magazine/heres-why-the-clarity-acts-ethics-deal-may-be-so-hard-to-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-trump-v-harris-crypto-politics.png",
     "source": "Cointelegraph"
   },
   {
@@ -30,15 +30,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-    "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/360fef2ec03b8a5acf252fa76d45c375526936f8-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto for Advisors: It’s time for tokenization to get to work",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8fcaabd55769e9d3a3a4778cf59bffb35f71375-5568x3712.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
-    "url": "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-michael-j-saylor-quantum-computer-1.jpg",
+    "title": "BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power",
+    "url": "https://cointelegraph.com/news/bitcoin-treasury-firm-empery-digital-invests-20m-in-ai-data-center-developer-cardinal-data-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/apple-ai.png",
     "source": "Cointelegraph"
   },
   {
