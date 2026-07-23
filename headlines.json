@@ -1,14 +1,14 @@
 [
   {
-    "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-    "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3591183f12e34a5a144345e711282f05514f28c-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+    "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6923046d9a52fac72269f7dd0d26ff84da658711-3240x1823.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "AFX Protocol reportedly loses $24M in bridge exploit",
-    "url": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hack.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,16 +18,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
-    "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1e34e35213ece0dee4183be72e6124f5c8f10b0d-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "XRP whales accumulate as small holders capitulate",
+    "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "S&P launches blockchain fundamentals index for digital assets",
-    "url": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq-crypto-etf.png",
-    "source": "Cointelegraph"
   },
   {
     "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
@@ -36,15 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
-    "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5252a6024fe560989b4f82445716c6305a44a313-5704x3958.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
+    "url": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9b53b686eda9c486cd061f826301e1866e0dd1-2869x1069.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
-    "url": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-polymarket-and-augur-predict-the-next-us-elections-crypto.jpg",
+    "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
+    "url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trezor-becomes-its-own-chip-maker-but-its-not-for-every-crypto-company-china.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Alibaba&#39;s New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
+    "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]
