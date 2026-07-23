@@ -1,14 +1,26 @@
 [
   {
-    "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-    "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6923046d9a52fac72269f7dd0d26ff84da658711-3240x1823.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Coinbase to expand Singapore office headcount by 25%: report",
+    "url": "https://cointelegraph.com/news/coinbase-expand-singapore-headcount-25?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-singapore-coinbase.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
+    "url": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/bitmex-decrypt-style-1-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "BitMEX, the exchange that invented perps, is shutting down",
+    "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee65ca8e310bbebea62f5f309609f6e5f2c69d29-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl",
+    "url": "https://cointelegraph.com/markets/grayscale-bitcoins-price-bottomed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-3.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,33 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "XRP whales accumulate as small holders capitulate",
-    "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
+    "url": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c6d6d74c2d9a3197a1a10764f40eec28f0bd6532-1920x1296.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Home invasions became most common crypto wrench attack in H1 2026: CertiK",
+    "url": "https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-reentrancy-attacks-home-invasion.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
     "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
-    "url": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9b53b686eda9c486cd061f826301e1866e0dd1-2869x1069.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
-    "url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trezor-becomes-its-own-chip-maker-but-its-not-for-every-crypto-company-china.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Alibaba&#39;s New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-    "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
