@@ -1,20 +1,26 @@
 [
   {
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "EU authorities include HTX exchange in Russian sanctions",
+    "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-    "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+    "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-3.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -24,15 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-    "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-genius-act-how-it-could-reshape-us-stablecoin-regulation.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
-    "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
+    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
+    "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -42,9 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-    "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/india-summary.png",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   }
 ]
