@@ -1,5 +1,17 @@
 [
   {
+    "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+    "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-reporting-failures-can-be-expensive-even-criminal-ftx.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+    "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc6ad6da7b554fc0089b3535d846dc2ca01ae585-3000x2000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
     "url": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cf0677948ced50fe8451fcff4d0119ea2ace0bd-2570x996.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -21,12 +33,6 @@
     "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
     "url": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-update-proof-of-stake-vs-proof-of-work-pros-cons-and-differences-explained.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "EU widens Belarus ownership ban to all crypto service providers",
-    "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-conference-eu2.jpg",
     "source": "Cointelegraph"
   }
 ]
