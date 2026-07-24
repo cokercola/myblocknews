@@ -12,21 +12,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Coinbase lets businesses accept USDC payments from AI agents",
-    "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
     "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
-    "url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-analysis-falling-1.jpg",
+    "title": "Coinbase lets businesses accept USDC payments from AI agents",
+    "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png",
     "source": "Cointelegraph"
   },
   {
@@ -42,9 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+    "url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-analysis-falling-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Robinhood CEO Vlad Tenev&#39;s X Account Hacked to Shill Fake &#39;Vladhood&#39; Token",
+    "url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg@png",
+    "source": "Decrypt"
   }
 ]
