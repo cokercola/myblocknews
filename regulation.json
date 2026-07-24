@@ -1,9 +1,21 @@
 [
   {
+    "title": "EU widens Belarus ownership ban to all crypto service providers",
+    "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-conference-eu2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
     "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/28b1a94149915bfe2334d8a4a2fc958c585a71c8-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown",
+    "url": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
@@ -12,27 +24,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "SEC sets September talks on move toward 24-hour stock trading",
-    "url": "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-timeframes3.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+    "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street locks them out",
     "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/90c0443debb8dba3963e8b167fb19e2e0b2e7ecd-1767x1480.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
-    "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg",
+    "title": "SEC sets September talks on move toward 24-hour stock trading",
+    "url": "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-timeframes3.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-    "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03ab15a46a49d90cd40a30c7756dd0610bc6a533-3645x2050.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
