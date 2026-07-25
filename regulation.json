@@ -1,5 +1,11 @@
 [
   {
+    "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+    "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c00d5f581af46430d49e6ab1ab92dae6b12abcf3-5625x3750.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
     "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/718e047524d1d0b0ef0a84f0f8f609f4d68e9b1c-1439x810.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -28,11 +34,5 @@
     "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/06376b1ba03e98ad44ec3cf3c34231075cdf9af8-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Poolin, Once One of Bitcoin&#39;s Biggest Mining Pools, Files for Bankruptcy",
-    "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]

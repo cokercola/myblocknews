@@ -1,8 +1,8 @@
 [
   {
-    "title": "Wise expected to resubmit US charter application under GENIUS",
-    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png",
+    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png",
     "source": "Cointelegraph"
   },
   {
@@ -12,15 +12,27 @@
     "source": "Decrypt"
   },
   {
+    "title": "Wise to resubmit US charter application under GENIUS Act",
+    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
     "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/498275a8ec5e7df835f47c58778db26eb7a40a00-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
+    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-    "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
