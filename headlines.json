@@ -6,6 +6,18 @@
     "source": "CoinDesk"
   },
   {
+    "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+    "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+    "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -16,12 +28,6 @@
     "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-    "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
@@ -40,11 +46,5 @@
     "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-    "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg",
-    "source": "Cointelegraph"
   }
 ]
