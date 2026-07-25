@@ -1,8 +1,8 @@
 [
   {
-    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png",
+    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+    "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -12,9 +12,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Wise to resubmit US charter application under GENIUS Act",
-    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png",
+    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png",
     "source": "Cointelegraph"
   },
   {
@@ -30,6 +30,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Wise to resubmit US charter application under GENIUS Act",
+    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
     "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
@@ -40,11 +46,5 @@
     "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   }
 ]
