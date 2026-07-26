@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
+    "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-the-whale-from-2017.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
+    "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/mira-murati-openai-gID_1.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -12,27 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
     "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/314f5020354797282c2c4a4902e12966c1ed7f78-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "BitMart to wind down exchange, end trading by Aug. 26",
-    "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
+    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -42,9 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-    "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
+    "title": "BitMart to wind down exchange, end trading by Aug. 26",
+    "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
     "source": "Cointelegraph"
   }
 ]
