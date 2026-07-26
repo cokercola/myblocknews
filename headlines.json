@@ -1,8 +1,20 @@
 [
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
     "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -18,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
+    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -33,18 +45,6 @@
     "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
     "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-    "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg",
     "source": "Cointelegraph"
   }
 ]
