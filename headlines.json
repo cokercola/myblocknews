@@ -1,14 +1,14 @@
 [
   {
-    "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-    "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a5375a52db6596c0f51e89041e53f604c35310b-4240x2832.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Live updates: Ether leads crypto higher as bitcoin trades around $65,500",
+    "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
-    "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bithumb-hack-what-is-known.jpg",
+    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
+    "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/password-fraud-hacker-scam3-2.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,10 +18,16 @@
     "source": "Decrypt"
   },
   {
-    "title": "2 weeks left for Clarity: State of Crypto",
-    "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "BitMart withdrawals appear to slow following wind-down announcement",
+    "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bancor-excludes-users-1.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -30,21 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c33d360ec80c79d71a2d515c01e84c4978d1ef9f-2860x1070.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
-    "title": "WEMIX says attacker moved about $724,000 after contract breach",
-    "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.png",
+    "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+    "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bithumb-hack-what-is-known.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
