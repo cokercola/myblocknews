@@ -1,5 +1,29 @@
 [
   {
+    "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+    "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6334f8835e037221b298cb9aea44cd8f5b69ddc0-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+    "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ff11efd63b3586d84e43397e95166d87d433586-2499x1449.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
+    "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6fdec8ec82f015c92ad42adb9f14635c3eda7574-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
+    "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
     "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-regulation-paper-rule-office-mica-eu.jpg",
@@ -9,24 +33,6 @@
     "title": "Thailand&#39;s SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
     "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
-    "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/data-storage-system-2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
-    "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/25-july.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Poolin, Once One of Bitcoin&#39;s Biggest Mining Pools, Files for Bankruptcy",
-    "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
