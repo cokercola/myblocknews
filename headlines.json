@@ -1,21 +1,39 @@
 [
   {
+    "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ab7bae0f5eca3344d78fd14752f64216f38f16a-2130x1186.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+    "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
+    "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
+    "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
+    "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
     "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
-    "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
-    "source": "Decrypt"
   },
   {
     "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
@@ -27,24 +45,6 @@
     "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
     "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sharia-ruling-on-crypto-will-it-set-a-standard-for-acceptance.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
-    "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He&#39;s Facing Federal Charges",
-    "url": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg",
     "source": "Cointelegraph"
   }
 ]
