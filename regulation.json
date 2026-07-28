@@ -6,16 +6,16 @@
     "source": "CoinDesk"
   },
   {
-    "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
-    "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
     "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
+    "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
@@ -28,11 +28,5 @@
     "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-bitcoins.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
-    "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c0fa4123dccdaad25fddd98891d9ec13393061f-2816x1584.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

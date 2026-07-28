@@ -1,15 +1,39 @@
 [
   {
+    "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+    "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aff32b708a5b4266e041a4eb460baa2d9236e4bb-3973x2235.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+    "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bankcman-morgan-stanley.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+    "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+    "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b0254f811e3676e0e5d214c1e0f8ca98ea6ad3-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
     "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-    "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04275ab159a92b7ce88ca71aeab8a9693ced53e9-3000x1688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
+    "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -18,33 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-    "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+    "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on &#39;Economic Rights&#39;",
+    "url": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
-    "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
-    "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
-    "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
-    "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-entice-uae-investors.jpg",
-    "source": "Cointelegraph"
   }
 ]
