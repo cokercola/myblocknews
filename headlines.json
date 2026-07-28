@@ -1,14 +1,8 @@
 [
   {
-    "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-    "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
+    "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-code-ai-bitcoin.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +12,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Binance makes fighting crypto crime more difficult, says new report",
-    "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3d9d3866e133e9972bedacd10e9cd2f3f8f4325-2382x1340.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+    "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
-    "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bear.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -36,15 +30,21 @@
     "source": "Decrypt"
   },
   {
+    "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+    "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee3d1280d6d860935d5dcc6850c74a99402519bf-1672x941.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+    "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bear.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
     "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5906987719c76603be22752568e77057c2ff955a-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
