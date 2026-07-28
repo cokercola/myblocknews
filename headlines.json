@@ -1,9 +1,9 @@
 [
   {
-    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
-    "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
-    "source": "Cointelegraph"
+    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
@@ -12,15 +12,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-us-regulated-bitcoin-perpetuals-could-change-crypto-trading.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
     "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -30,15 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
-    "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-3.jpg",
+    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+    "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-us-regulated-bitcoin-perpetuals-could-change-crypto-trading.png",
+    "source": "Cointelegraph"
   }
 ]

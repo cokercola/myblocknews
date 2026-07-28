@@ -1,9 +1,21 @@
 [
   {
+    "title": "US judge temporarily blocks Minnesota prediction market ban",
+    "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
     "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+    "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
@@ -12,9 +24,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Cross River to enable P2P payments, banking services for X Money",
-    "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-is-the-next-step-toward-a-cashless-society-eu.png",
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -22,17 +34,5 @@
     "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/535cd2c7dbb908633bc727e412235a2885e3256f-5269x3511.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Securitize Capital becomes SEC-registered investment adviser",
-    "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-crypto-deriv-could-change-the-industry-stablecoin.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
-    "url": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/EsportsFistbump-Shutterstock-Decryptstyle-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
