@@ -1,15 +1,15 @@
 [
   {
-    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
-    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
     "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+    "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cz-vs-eu.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
@@ -18,22 +18,22 @@
     "source": "Decrypt"
   },
   {
+    "title": "Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
     "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
-    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ab7bae0f5eca3344d78fd14752f64216f38f16a-2130x1186.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
-    "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
@@ -42,9 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-us-regulated-bitcoin-perpetuals-could-change-crypto-trading.png",
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg",
     "source": "Cointelegraph"
   }
 ]
