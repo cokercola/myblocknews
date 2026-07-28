@@ -1,15 +1,9 @@
 [
   {
-    "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
-    "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-entice-uae-investors.jpg",
+    "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+    "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
-    "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
-    "source": "Decrypt"
   },
   {
     "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
@@ -18,27 +12,27 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-    "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-an-ipo-a-beginners-guide-on-how-crypto-firms-can-go-public.png",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
-    "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+    "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
+    "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
-    "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-code-ai-bitcoin.jpg",
+    "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
+    "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
-    "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg@png",
+    "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
+    "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
+    "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-entice-uae-investors.jpg",
+    "source": "Cointelegraph"
   }
 ]
