@@ -1,15 +1,39 @@
 [
   {
-    "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5906987719c76603be22752568e77057c2ff955a-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+    "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-    "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-tokenization.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
+    "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Binance makes fighting crypto crime more difficult, says new report",
+    "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3d9d3866e133e9972bedacd10e9cd2f3f8f4325-2382x1340.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+    "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bear.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "1inch&#39;s Shared Liquidity Layer Aqua Goes Live",
+    "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Aqua_banner-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
@@ -18,33 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-    "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-lido-ldo-a-beginners-guide-to-liquidity-for-staked-assets.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
-    "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/scam-compound-myanmar-decrypt-style-1-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "1inch opens Aqua liquidity protocol across 13 chains",
-    "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/095f31f64b7d4e28de2e0cb20c0ddc3e2f6e2a06-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5906987719c76603be22752568e77057c2ff955a-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-    "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "&#39;Running Away Balloon&#39; Artist Sues AI Meme Generator Over Ad Templates",
-    "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/running-away-balloon-decrypt-style-e1785233270859-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
