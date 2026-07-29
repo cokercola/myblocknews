@@ -1,5 +1,29 @@
 [
   {
+    "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+    "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8bc1038e9ca9f4263eacbec0c28283f27058eed6-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-116994-bitcoin-price-fomc-mt-gox-26-7-k-dip.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
     "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.png",
@@ -22,29 +46,5 @@
     "url": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
-    "url": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-cia-ai-worker-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-    "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8f8e845d301c236d4f4687a125d984bf99f2fe55-1152x648.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "OpenAI&#39;s Rogue AI Hacked Four More Platforms Besides Hugging Face",
-    "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
