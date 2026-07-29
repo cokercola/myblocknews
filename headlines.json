@@ -1,9 +1,27 @@
 [
   {
+    "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+    "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "There&#39;s a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+    "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
     "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8bc1038e9ca9f4263eacbec0c28283f27058eed6-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "MoonPay&#39;s PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
+    "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
@@ -24,27 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
-    "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-    "url": "https://decrypt.co/resources/zcash",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/01/z-cash-gID_1-pID_2.png@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
     "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/08c11eec68c9131794f87f5ba9f073fb28663878-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
-    "url": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg",
-    "source": "Cointelegraph"
   }
 ]
