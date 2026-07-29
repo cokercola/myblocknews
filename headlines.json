@@ -1,8 +1,8 @@
 [
   {
-    "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
-    "url": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6ed51e6620572825f55b798cf85004f3ad4e580-5960x3973.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+    "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08c11eec68c9131794f87f5ba9f073fb28663878-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,9 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day",
-    "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a657d93793b2682fd079a3019e7b59cae3005273-1280x960.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+    "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8f8e845d301c236d4f4687a125d984bf99f2fe55-1152x648.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -36,15 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
-    "url": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
     "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-coins.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
+    "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]
