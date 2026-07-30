@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims &#39;Trusted Quantum Advantage&#39;",
+    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Ondo Finance weighs acquisition worth up to $500 million",
     "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b812b8ada6cef71c702a746a86725e170bb18b15-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -40,11 +46,5 @@
     "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/787bb8c5cbca6057c6993b7d65fb417f39a59b16-4586x3058.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-    "url": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-rise-of-major-institutions-is-inevitable-data-centers-red.jpg",
-    "source": "Cointelegraph"
   }
 ]
