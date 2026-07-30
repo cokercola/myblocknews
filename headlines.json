@@ -1,14 +1,26 @@
 [
   {
-    "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
-    "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/news-coin-coinbase.jpg",
+    "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+    "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
+    "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+    "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
+    "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png",
     "source": "Cointelegraph"
   },
   {
@@ -18,33 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
-    "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/durov.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims &#39;Trusted Quantum Advantage&#39;",
-    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Ondo Finance weighs acquisition worth up to $500 million",
     "url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b812b8ada6cef71c702a746a86725e170bb18b15-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
-    "url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-law-on-promotion-of-crypto-us2.jpg",
+    "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+    "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/news-coin-coinbase.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Your &#39;Sexual Wellness&#39; Pills Order Info From Hims Got Shared With Meta, Says FTC",
-    "url": "https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/pills-medical-health-gID_4.jpg@png",
+    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims &#39;Trusted Quantum Advantage&#39;",
+    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
