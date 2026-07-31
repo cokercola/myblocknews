@@ -1,9 +1,21 @@
 [
   {
+    "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+    "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
     "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/06459a5f278c79f4095c8d3c6c664bcc7185d1c5-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "US Is Banning Foreign Robots—Even Roombas",
+    "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
@@ -18,21 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
-    "url": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
     "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bc166a43d61272151ae89ff698586929d81a0b6-2084x1092.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-    "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/32a69ea263f1f8d58c0bb85456d2b8b79327bae6-4673x2629.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]

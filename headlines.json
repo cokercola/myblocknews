@@ -1,14 +1,26 @@
 [
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Bitcoin holds July gain as 'forced-selling fuel was already spent,' analysts say",
+    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5be27224bd7ac7866d20593432ecaaa0ad610c9-2044x1108.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+    "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+    "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pumpfun-firing.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
+    "title": "AI Music Company Suno Loses Copyright Case in Germany",
+    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Ai_music2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -18,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Ex-FTX users report funds being released in $900M distribution round",
-    "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -30,21 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
-    "url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/papertether-dollar.jpg",
+    "title": "Ex-FTX users report funds being released in $900M distribution round",
+    "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-    "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-    "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f13d40f9b05eb319f27591485d64b14deec36a9e-3592x2394.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
