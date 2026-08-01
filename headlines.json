@@ -6,16 +6,16 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto PAC pours another $1M into Michigan House race",
-    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
     "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Crypto PAC pours another $1M into Michigan House race",
+    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "The More Americans Know About AI, the Less They Like It: Gallup",
@@ -30,21 +30,21 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
     "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin ETFs end July in the green despite late-month selling",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
+    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "AI Music Company Suno Loses Copyright Case in Germany",
+    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Ai_music2-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]
