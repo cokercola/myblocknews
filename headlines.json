@@ -1,9 +1,15 @@
 [
   {
-    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-    "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+    "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/437628ccfb83a83e825c25c2a011fac07e55fd69-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
@@ -12,15 +18,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-    "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+    "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-    "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pumpfun-firing.png",
+    "title": "Bitcoin ETFs end July in the green despite late-month selling",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
     "source": "Cointelegraph"
   },
   {
@@ -30,21 +36,15 @@
     "source": "Decrypt"
   },
   {
+    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+    "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
     "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5be27224bd7ac7866d20593432ecaaa0ad610c9-2044x1108.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Ex-FTX users report funds being released in $900M distribution round",
-    "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-funds-using-cryptocurrencies-ftx.png",
-    "source": "Cointelegraph"
   }
 ]
