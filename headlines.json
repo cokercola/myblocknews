@@ -6,12 +6,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
     "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
@@ -24,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin ETFs end July in the green despite late-month selling",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
+    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -40,6 +34,12 @@
     "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin ETFs end July in the green despite late-month selling",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
