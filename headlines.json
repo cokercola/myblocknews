@@ -1,5 +1,41 @@
 [
   {
+    "title": "The reverse bridge: Crypto meets Wall Street using perps",
+    "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
+    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+    "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebab27428c42ef23eb3495a903cb473d0b2e540b-1600x900.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+    "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+    "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Strategy holds STRC dividend at 12%",
     "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8a5dba87ad94ba079e2f4c60317ed8bbef4fb85e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -10,41 +46,5 @@
     "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
-    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-    "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-    "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "The More Americans Know About AI, the Less They Like It: Gallup",
-    "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-    "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d050e4be1c5616c5c0df43f77406eebe7e1d4c9f-1920x1277.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-    "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
