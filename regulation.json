@@ -6,21 +6,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
     "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/198dcd7467c494c1194b67c1d80424db96f7e636-553x311.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Russia expands crypto mining ban to Moscow through 2032",
-    "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
+    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
     "source": "Cointelegraph"
   },
   {
@@ -34,5 +28,11 @@
     "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d515099cc27d1cef5d333e5c01bb778ce49d7531-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Russia expands crypto mining ban to Moscow through 2032",
+    "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
+    "source": "Cointelegraph"
   }
 ]

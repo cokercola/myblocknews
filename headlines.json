@@ -6,6 +6,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+    "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
     "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
@@ -16,6 +22,12 @@
     "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+    "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "The More Americans Know About AI, the Less They Like It: Gallup",
@@ -30,21 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto PAC pours another $1M into Michigan House race",
-    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
     "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "AI Music Company Suno Loses Copyright Case in Germany",
-    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Ai_music2-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
