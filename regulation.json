@@ -1,8 +1,20 @@
 [
   {
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd770e38c8fc25420b61d080da050e9b05dd75e-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Onchain, in court: What happened in crypto legal news this week",
     "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
     "source": "Cointelegraph"
   },
   {
@@ -18,21 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
+    "title": "Russia expands crypto mining ban to Moscow through 2032",
+    "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-    "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-    "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d515099cc27d1cef5d333e5c01bb778ce49d7531-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

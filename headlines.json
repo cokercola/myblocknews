@@ -1,8 +1,8 @@
 [
   {
-    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-    "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Counting down the days: State of Crypto",
+    "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,16 +12,10 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
-    "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+    "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+    "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "The reverse bridge: Crypto meets Wall Street using perps",
-    "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -30,15 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
-    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
+    "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+    "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-    "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebab27428c42ef23eb3495a903cb473d0b2e540b-1600x900.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+    "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
+    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
   }
 ]
