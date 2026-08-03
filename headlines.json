@@ -1,8 +1,8 @@
 [
   {
-    "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-    "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+    "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0c13b7deea6c73a86b897a2bf954b83652f60c5-3200x1800.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,9 +12,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-    "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
+    "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/OnlyFans-logo-gID_7.jpeg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+    "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -24,15 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-    "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-    "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5375c855453eb305797281edc37be56277accf7e-5819x3273.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
+    "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -42,9 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "XRP Holders Can Now Borrow Ripple&#39;s RLUSD on Ethereum Without Selling Their Crypto",
-    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+    "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5375c855453eb305797281edc37be56277accf7e-5819x3273.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
