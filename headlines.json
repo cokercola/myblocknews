@@ -1,14 +1,44 @@
 [
   {
-    "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cde7c5c55d62c3364cef9c31433ea411ca1bbd11-2854x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+    "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c9255df7fcdaef0e272bed71c29a3b20ac87ef51-1170x780.webp?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
-    "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-jim-cramerand-why-do-traders-love-to-hate-him.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Apple&#39;s AI Slop Problem Left a $200K macOS Exploit Unreported",
+    "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+    "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8d80c11b6ad1d12e62cf0e9c61384d8e84051c3-1804x1015.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
+    "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interview-29-07-2026.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Morning Minute: Saylor Sells Bitcoin Again",
+    "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
+    "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-texas-bitcoin-reserve-move-signals-a-shift-in-government-crypto-policy.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -16,35 +46,5 @@
     "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
-    "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a808e1ce619f119c03e2f4de7e536bbcaf20be40-4050x2278.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Former FBI supervisor admits guilt in $1M crypto theft",
-    "url": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nexfundai-the-fbis-trap-token-explained-2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-    "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9053b76df2c8a6f48c4f3d5b3fe86647cc5bf446-2986x1696.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Strategy’s STRC retakes $90 after 24% rebound from June closing low",
-    "url": "https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-strategy-stocks-and-how-to-create-and-launch-one.png",
-    "source": "Cointelegraph"
   }
 ]
