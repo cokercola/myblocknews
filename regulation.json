@@ -1,15 +1,21 @@
 [
   {
-    "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-    "url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/b-lawsuit-kalshi-2.jpg",
-    "source": "Cointelegraph"
+    "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+    "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ba4e49ddffd762d22c0425a56fc08272bcd872d-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
     "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
+    "url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/b-lawsuit-kalshi-2.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
