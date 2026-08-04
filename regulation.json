@@ -1,5 +1,23 @@
 [
   {
+    "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+    "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/95723a31d1edeac729277890d08a21ea5bae38f0-1692x952.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+    "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/21526e2b03174760b5362a6b9c761c3e24ae28be-1500x852.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+    "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/473cadb20fe4e7c052f29ddddcf48b15aee79ec0-1920x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
     "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/cc9f0df2f256d6ca65cc434680be96c3248989f5-1536x1098.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -16,17 +34,5 @@
     "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-    "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-    "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ba4e49ddffd762d22c0425a56fc08272bcd872d-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

@@ -1,14 +1,38 @@
 [
   {
-    "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-    "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c9255df7fcdaef0e272bed71c29a3b20ac87ef51-1170x780.webp?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+    "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "BNY to offer institutional crypto staking through Galaxy partnership",
+    "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+    "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+    "url": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-oil-firm-buys-into-blockchain-iran.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
+    "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bitcoin-winter-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+    "url": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-137272-bitcoin-mining-company-bitdeer-lease-ohio-site.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,33 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-    "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8d80c11b6ad1d12e62cf0e9c61384d8e84051c3-1804x1015.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
+    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1fef90fa61521de9a85cccfd07689eec3083aee1-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
-    "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/interview-29-07-2026.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: Saylor Sells Bitcoin Again",
-    "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
-    "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-texas-bitcoin-reserve-move-signals-a-shift-in-government-crypto-policy.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan&#39;s Kinexys",
-    "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
