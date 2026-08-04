@@ -1,8 +1,8 @@
 [
   {
-    "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-    "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+    "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,10 +12,16 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-    "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
+    "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
+    "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+    "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
@@ -24,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-    "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bitcoin-winter-gID_7.png@png",
+    "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+    "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -36,15 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Apple&#39;s AI Slop Problem Left a $200K macOS Exploit Unreported",
-    "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+    "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+    "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1fef90fa61521de9a85cccfd07689eec3083aee1-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
