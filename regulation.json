@@ -1,14 +1,8 @@
 [
   {
-    "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
-    "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+    "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0903df38954495f9e1aeb6c9d49b67bdddee5d15-1008x567.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -24,15 +18,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bybit’s EU payments arm secures Austrian e-money license",
-    "url": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license-1.png",
+    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "MiCA list expands with 12 companies in fourth post-deadline update",
+    "url": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-mica-eu.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-    "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/95723a31d1edeac729277890d08a21ea5bae38f0-1692x952.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+    "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg",
+    "source": "Cointelegraph"
   }
 ]
