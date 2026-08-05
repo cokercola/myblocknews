@@ -1,20 +1,32 @@
 [
   {
+    "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+    "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5dff6ed058589d3d749c6423fadd99ca9476909d-5083x3388.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+    "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
     "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/82a2cd520f0433fc9cd38a23fcff8fc000abe251-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
+    "url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-stake-ethereum-eth-7-steps-to-start-earning-rewards2.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
-    "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+    "title": "AI Enthusiast Bugs His Toddler&#39;s Sleepover and Feeds It to Claude—The Internet Bugs Back",
+    "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,27 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "AI Enthusiast Bugs His Toddler&#39;s Sleepover and Feeds It to Claude—The Internet Bugs Back",
-    "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png@png",
-    "source": "Decrypt"
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
     "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "BNY to offer institutional crypto staking through Galaxy partnership",
-    "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
-    "url": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-oil-firm-buys-into-blockchain-iran.png",
-    "source": "Cointelegraph"
   }
 ]
