@@ -1,8 +1,26 @@
 [
   {
-    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-    "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0903df38954495f9e1aeb6c9d49b67bdddee5d15-1008x567.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+    "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Galaxy Digital shares slip 5% after second-quarter results",
+    "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4dee4d9ee83965b1df20b7cce851ffad1b29f4e9-2560x1707.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+    "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5148a634010be8fb23942517fcc69dc4b8bf7759-2662x1058.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+    "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba6d9bf9698a8de22191936587f16b9945902d16-2400x1180.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -16,23 +34,5 @@
     "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "MiCA list expands with 12 companies in fourth post-deadline update",
-    "url": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-mica-eu.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
-    "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg",
-    "source": "Cointelegraph"
   }
 ]
