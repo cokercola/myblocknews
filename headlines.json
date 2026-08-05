@@ -1,14 +1,20 @@
 [
   {
+    "title": "Marex invests in Digital Prime to expand institutional crypto lending",
+    "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-ada-lending-copy.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
     "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-    "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-decrypt-style-07-gID_7.png@png",
+    "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
+    "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/NFT-market-money-gID_7.jpeg@png",
     "source": "Decrypt"
   },
   {
@@ -24,6 +30,12 @@
     "source": "Cointelegraph"
   },
   {
+    "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
+    "url": "https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
     "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -34,17 +46,5 @@
     "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/magazinechina-gold.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Anthropic&#39;s Claude Mythos 5 &#39;Targeted Real People&#39; in UK Cyber Tests: AISI",
-    "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-    "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c5f9936bbd084d1a17d68695e5de5b4ec268eb4-778x509.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
