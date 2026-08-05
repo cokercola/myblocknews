@@ -1,5 +1,17 @@
 [
   {
+    "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+    "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Eliza Founder Declares AI Token &#39;Dead,&#39; Shuts Down Foundation After Lawsuit Settlement",
+    "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/jaldps_an_office_anime_style_-ar_9151_-style_raw_-personal_3c0746c6-0a72-458d-9bc7-6041893c778d_3-gID_4.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
     "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
@@ -18,21 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
-    "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba6d9bf9698a8de22191936587f16b9945902d16-2400x1180.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "OpenAI Dumps Apple Employees&#39; Text Messages to Fight Trade Secret Suit",
     "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-    "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
