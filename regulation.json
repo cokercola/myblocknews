@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+    "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+    "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
     "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8bf1032698144f529bec9f855343103ae1ae314-5717x3812.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -22,17 +34,5 @@
     "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Galaxy Digital shares slip 5% after second-quarter results",
-    "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4dee4d9ee83965b1df20b7cce851ffad1b29f4e9-2560x1707.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-    "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
-    "source": "Cointelegraph"
   }
 ]
