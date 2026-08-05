@@ -6,33 +6,33 @@
     "source": "CoinDesk"
   },
   {
-    "title": "OpenAI and Anthropic&#39;s Rogue Models Hacked Real Companies. The Law Has No Answer",
-    "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
     "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Eliza Founder Declares AI Token &#39;Dead,&#39; Shuts Down Foundation After Lawsuit Settlement",
-    "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/jaldps_an_office_anime_style_-ar_9151_-style_raw_-personal_3c0746c6-0a72-458d-9bc7-6041893c778d_3-gID_4.png@png",
+    "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+    "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-    "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
-    "source": "Cointelegraph"
+    "title": "OpenAI and Anthropic&#39;s Rogue Models Hacked Real Companies. The Law Has No Answer",
+    "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Galaxy Digital shares slip 5% after second-quarter results",
     "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/4dee4d9ee83965b1df20b7cce851ffad1b29f4e9-2560x1707.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+    "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
+    "source": "Cointelegraph"
   }
 ]
