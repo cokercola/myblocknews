@@ -1,14 +1,20 @@
 [
   {
-    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
-    "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+    "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+    "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-    "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+    "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+    "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-contract-blockchain2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
+    "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -18,21 +24,15 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+    "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "OpenAI and Anthropic&#39;s Rogue Models Hacked Real Companies. The Law Has No Answer",
     "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
-    "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-token-act-mica-preemption-of-inconsistent-laws.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
