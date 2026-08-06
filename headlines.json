@@ -1,8 +1,14 @@
 [
   {
-    "title": "Meta latest AI firm to see model go rogue during testing",
-    "url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/ai.jpg",
+    "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+    "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
+    "url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-1.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -12,15 +18,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-    "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+    "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
-    "url": "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/jack-dorsey3-1.jpg",
+    "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-2.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -30,21 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-    "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f021b8489c514048a19284a683921ac81755aa3c-2782x954.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+    "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here are the possible outcomes for Clarity right now",
-    "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-    "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
   }
 ]

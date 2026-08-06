@@ -1,14 +1,8 @@
 [
   {
-    "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
-    "url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bank-building-hall-entrance-door2-1.jpg",
+    "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
+    "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-token-act-mica-preemption-of-inconsistent-laws.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,10 +12,16 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
-    "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bug-error-hack-red-mistake-malwire.jpg",
-    "source": "Cointelegraph"
+    "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "OpenAI and Anthropic&#39;s Rogue Models Hacked Real Companies. The Law Has No Answer",
+    "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
@@ -30,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
-    "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png",
-    "source": "Cointelegraph"
+    "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+    "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8bf1032698144f529bec9f855343103ae1ae314-5717x3812.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
