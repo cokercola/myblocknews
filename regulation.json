@@ -1,14 +1,8 @@
 [
   {
-    "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
-    "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-    "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8bf1032698144f529bec9f855343103ae1ae314-5717x3812.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,10 +12,10 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-    "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+    "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
@@ -30,9 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-    "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
-    "source": "Decrypt"
+    "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+    "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+    "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png",
+    "source": "Cointelegraph"
   }
 ]
