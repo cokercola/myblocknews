@@ -1,5 +1,11 @@
 [
   {
+    "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+    "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
     "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -10,6 +16,12 @@
     "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
+    "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
@@ -24,9 +36,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
-    "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png@png",
+    "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
+    "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1c014a2d37a67798524621c1d3d9c1251ff9030-1500x935.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-    "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
-    "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/miner.jpg",
-    "source": "Cointelegraph"
   }
 ]
