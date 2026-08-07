@@ -1,8 +1,26 @@
 [
   {
-    "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247420-bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95-960x640.webp",
+    "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+    "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/19be7778374a432a1d25e3cc4f6c1334f21f9e4d-4368x2912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+    "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+    "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcdcb22c5cadbe2ca4415d01f51fc30935116935-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+    "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sam-bankman-fried-portrait-uk.png",
     "source": "Cointelegraph"
   },
   {
@@ -12,10 +30,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-    "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247420-bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95-960x640.webp",
+    "source": "Cointelegraph"
   },
   {
     "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
@@ -24,27 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "OpenAI&#39;s First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-    "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
-    "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbfc674b5030a84178a832fe0429bc65125ae8fb-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+    "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
-    "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazineback-to-ethereum.jpg",
-    "source": "Cointelegraph"
   }
 ]
