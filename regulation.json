@@ -1,9 +1,15 @@
 [
   {
-    "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cdf7e8f4de8522a9a5bf3476f78117049a0d84cb-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+    "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+    "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-8-most-common-cyberattacks-and-how-to-prevent-them.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
@@ -12,10 +18,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "US Senate pushes CLARITY Act vote to September",
-    "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg",
-    "source": "Cointelegraph"
+    "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cdf7e8f4de8522a9a5bf3476f78117049a0d84cb-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
@@ -24,15 +30,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Senate won't vote on crypto Clarity Act before its summer break",
-    "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/164f2ef09ede4214270f05f41bac4752e823c525-3762x2116.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Putin Signs Russia&#39;s First Crypto Law: Trading Is Legal, Payments Stay Banned",
-    "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/Putin-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "US Senate pushes CLARITY Act vote to September",
+    "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg",
+    "source": "Cointelegraph"
   }
 ]
