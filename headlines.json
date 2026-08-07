@@ -1,14 +1,32 @@
 [
   {
-    "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
-    "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4d81e192e1f62823140aa467b9ae9ea05af455a-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
+    "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbfc674b5030a84178a832fe0429bc65125ae8fb-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
-    "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+    "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
+    "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f3b402a88a484342bc1b2aa4643ff9a5387e8f9-4256x2832.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
+    "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazineback-to-ethereum.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,33 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "After a Clarity Act funeral, the crypto world would keep turning",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/860183ebbd3caaa629a90382e19b23314948c708-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+    "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/802ff63bb41cf1a48be506ef0f8579ae4fffea87-1920x1040.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-    "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-trader-breaking-news.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-    "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/metamask-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-    "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0cc005c0f5876f5701ad9ba567437070ea3d389-3840x2160.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-    "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-jeans.jpg",
+    "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+    "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong.png",
     "source": "Cointelegraph"
   }
 ]
