@@ -12,21 +12,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-    "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/09baa6e384a585b06e0cf87764845da486f35cd2-1691x1268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
     "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "How a five-second trick let traders drain millions from Polymarket",
-    "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+    "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/09baa6e384a585b06e0cf87764845da486f35cd2-1691x1268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -34,5 +28,11 @@
     "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/banks-road-crypto-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "How a five-second trick let traders drain millions from Polymarket",
+    "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
