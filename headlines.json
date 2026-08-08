@@ -1,20 +1,14 @@
 [
   {
-    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
     "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain-cbdc.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-    "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -24,9 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-    "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+    "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -36,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-    "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/841ac31fb4e72ea7f68c4ff1293a8c535f8c28c0-510x287.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+    "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions2.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
+    "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-shhh-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]
