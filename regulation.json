@@ -1,5 +1,17 @@
 [
   {
+    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
     "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
@@ -22,17 +34,5 @@
     "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-    "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
-    "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/banks-road-crypto-1.jpg",
-    "source": "Cointelegraph"
   }
 ]
