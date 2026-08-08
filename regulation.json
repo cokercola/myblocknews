@@ -1,15 +1,15 @@
 [
   {
-    "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
-    "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-aftermath-of-bybit-ftx-consequences-of-cryptos-ongoing-regulatory-process.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
     "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
+    "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-aftermath-of-bybit-ftx-consequences-of-cryptos-ongoing-regulatory-process.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
@@ -30,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
-    "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/banks-road-crypto-1.jpg",
-    "source": "Cointelegraph"
+    "title": "How a five-second trick let traders drain millions from Polymarket",
+    "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
