@@ -18,12 +18,6 @@
     "source": "Decrypt"
   },
   {
-    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
     "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
@@ -34,5 +28,11 @@
     "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6f02ef703e994951b57b8fa5172c8f10bfe45ac-5508x3672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
+    "source": "Cointelegraph"
   }
 ]
