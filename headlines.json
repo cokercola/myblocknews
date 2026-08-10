@@ -1,14 +1,14 @@
 [
   {
-    "title": "Bitcoin tops $65,000 with US inflation data due this week",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
-    "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/atm.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-    "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-    "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/quantum.jpg",
+    "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
+    "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/ai-gut.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -36,15 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-    "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers",
+    "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
+    "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/atm.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin tops $65,000 with US inflation data due this week",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]

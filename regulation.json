@@ -1,8 +1,20 @@
 [
   {
+    "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+    "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a1494a3b2a1af72346af846f04df0d718a1bccb-2912x1716.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
     "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -10,12 +22,6 @@
     "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-mad-max-fury-road.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
   },
   {
     "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
@@ -28,11 +34,5 @@
     "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
