@@ -6,9 +6,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers",
+    "title": "Crypto’s first quantum attack will look like an unexplained breach: Quantus founder",
+    "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/quantum.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,6 +24,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
+    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
     "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
@@ -34,12 +40,6 @@
     "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-    "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png",
-    "source": "Cointelegraph"
   },
   {
     "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
