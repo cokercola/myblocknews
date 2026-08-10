@@ -1,15 +1,39 @@
 [
   {
+    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/835764b08ab8abdafd0f6ee31e2021d0e7b9ce05-1026x576.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/tron.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/defi-crypto-hack-ethereal-security-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+    "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
+    "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
     "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
-    "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labirynth-clarity-act-us-1.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
@@ -22,29 +46,5 @@
     "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a5e129a1540983596e499dd8e96b7b5e60f29d0-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
-    "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-shakes-market2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Brazil&#39;s $319B Crypto Market Faces October Licensing Deadline: CertiK",
-    "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/brazil-technology-shutterstock_1201705168-16x9-1-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc173559f15091e27a52c22dedbaade8c86f0509-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
-    "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-canada-crypto-regultion-bitcoin-etfs-strict-licensing-and-a-digital-dollar.png",
-    "source": "Cointelegraph"
   }
 ]
