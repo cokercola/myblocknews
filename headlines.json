@@ -1,9 +1,9 @@
 [
   {
-    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+    "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -18,6 +18,12 @@
     "source": "Decrypt"
   },
   {
+    "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+    "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1099fc28972e0ad7e7b65cb3c0555457bdef222-3888x2592.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
     "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/ai-gut.jpg",
@@ -30,9 +36,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/atm.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin tops $65,000 with US inflation data due this week",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
