@@ -1,9 +1,21 @@
 [
   {
+    "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+    "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
     "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b51601b176dc3c6b4d6c74591116ef860cd0d2a3-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Following Senate delay, crypto bill has a narrow window to become law",
+    "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
@@ -12,27 +24,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "ARP Digital secures Dubai VARA broker-dealer license",
-    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-vat-law-in-uae-the-impact-on-stablecoins-and-digital-assets.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
     "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
-    "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c6fe6e3c91b04429f89f7d1800b84095103a7-5777x3851.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-    "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/arabian-khaliji-people-of-the-arabian-peninsula-agreement-handshake-crypto-1.jpg",
+    "title": "ARP Digital secures Dubai VARA broker-dealer license",
+    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-vat-law-in-uae-the-impact-on-stablecoins-and-digital-assets.png",
     "source": "Cointelegraph"
   }
 ]
