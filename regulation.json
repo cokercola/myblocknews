@@ -1,5 +1,11 @@
 [
   {
+    "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
+    "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
     "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png",
@@ -28,11 +34,5 @@
     "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6398b4995f520f7aff6cf8486d8ae4c965ff005c-1252x702.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
-    "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc-1.jpg",
-    "source": "Cointelegraph"
   }
 ]

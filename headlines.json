@@ -1,5 +1,17 @@
 [
   {
+    "title": "A $2 trillion asset class is getting a new blockchain rail",
+    "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3349e538005ccbc9fb97689c48795d3f2aa53ddf-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+    "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
     "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -33,18 +45,6 @@
     "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/defi-crypto-hack-ethereal-security-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
-    "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-different-exchanges-are-responding-to-bitcoin-fork.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
-    "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
