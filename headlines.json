@@ -1,8 +1,38 @@
 [
   {
-    "title": "A $2 trillion asset class is getting a new blockchain rail",
-    "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3349e538005ccbc9fb97689c48795d3f2aa53ddf-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+    "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ef8d303f7969904e5e1ae76f9c06eaf7e4ea513-2856x1448.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+    "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/coldcard-screen-edit.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
+    "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "FlightAware sues Kalshi over bets on flight cancellations",
+    "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc7f3e9169bf9107fc03d78e5c94a7e1d9d83488-4062x2708.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
+    "url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurrency-mining-still-profitable-in-2025.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+    "url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf51ced1e9ffbb8c0b1d7b79ae3a125caf2fb88-1534x969.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,39 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-    "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
+    "url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc4c12877ab4eb63b5f44ae62d0347edcbabaa90-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "South Korea drops Travel Rule threshold for crypto transfers",
-    "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-coin.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
-    "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed1f70c8a29fed6e347f5464e05c5fef6c0c998b-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-    "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/defi-crypto-hack-ethereal-security-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
