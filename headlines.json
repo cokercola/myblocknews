@@ -1,8 +1,26 @@
 [
   {
-    "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-    "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+    "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "White House vows to get CLARITY across ‘finish line’ in September",
+    "url": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto-clarity.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
+    "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/trump-bitcoin.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7dc7468f94db6ccf9eba7ebfcf896692b13d9085-2048x1536.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,34 +30,16 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/835764b08ab8abdafd0f6ee31e2021d0e7b9ce05-1026x576.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/tron.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/defi-crypto-hack-ethereal-security-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-    "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+    "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-    "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat2.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
