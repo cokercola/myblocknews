@@ -1,9 +1,15 @@
 [
   {
-    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
+    "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+    "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "America doesn’t need a second-class payments system",
+    "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce4c5660367e807ef4f3aad9060755e87d8b6731-5808x3872.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
@@ -18,21 +24,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-    "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png",
+    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
     "source": "Cointelegraph"
   },
   {
     "title": "Harmony&#39;s ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
     "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-    "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
