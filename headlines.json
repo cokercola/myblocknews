@@ -6,6 +6,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+    "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
     "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -24,27 +30,21 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "The Bull and Bear Case for Solana’s Next Price Move",
     "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "MoneyGram expands crypto cash ramps to Solana",
-    "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png",
+    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
+    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "Following Senate delay, crypto bill has a narrow window to become law",
-    "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg",
+    "title": "MoneyGram expands crypto cash ramps to Solana",
+    "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png",
     "source": "Cointelegraph"
   }
 ]
