@@ -1,5 +1,23 @@
 [
   {
+    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
+    "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f0cf2bf8208fb2fc29b3923719014cd9c42ffeb-5721x3816.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
     "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png",
@@ -12,27 +30,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-    "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0f2ce76b24fc52dc907f21f8e125cf83a23b559-4418x2945.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
     "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-    "url": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/56e051157de1e47ff1176c56836958da1d5bb3d5-2252x1736.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
-    "url": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a1c20851ae32daabe4820e89ae7049b9efddc85-1000x563.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
