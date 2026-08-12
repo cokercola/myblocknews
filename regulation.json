@@ -6,12 +6,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-    "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
     "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -28,6 +22,12 @@
     "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+    "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",

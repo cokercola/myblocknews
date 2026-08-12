@@ -1,26 +1,44 @@
 [
   {
+    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "&#39;Inner Thoughts&#39; of Every Major AI Model Exposed in Massive Exploit",
+    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+    "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+    "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1752c4b99c4e3953d426b655225dc48327ad8e7b-1920x1244.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitwise cuts 14% of staff while still expecting growth",
     "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitwise.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-    "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
-    "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1752c4b99c4e3953d426b655225dc48327ad8e7b-1920x1244.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
-    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg@png",
+    "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+    "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -28,23 +46,5 @@
     "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-    "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f0cf2bf8208fb2fc29b3923719014cd9c42ffeb-5721x3816.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
-    "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg",
-    "source": "Cointelegraph"
   }
 ]
