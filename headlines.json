@@ -1,5 +1,17 @@
 [
   {
+    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+    "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+    "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
     "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3c36f86c5d814d9ec493dae6d7fde7687526f38-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,9 +24,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-    "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+    "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
+    "url": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,9 +36,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-    "url": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+    "title": "The Bull and Bear Case for Solana’s Next Price Move",
+    "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ec1a5091188e08cb020c5859560aebbdf1ad5c7-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-    "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "The Bull and Bear Case for Solana’s Next Price Move",
-    "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
