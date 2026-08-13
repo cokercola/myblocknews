@@ -1,8 +1,26 @@
 [
   {
-    "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-    "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png",
+    "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+    "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+    "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+    "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-reserve-asset-bill-explained.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+    "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -12,27 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
-    "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
+    "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+    "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-    "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-    "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/paul-s-atkins-sec-chair-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-    "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.jpg",
-    "source": "Cointelegraph"
   }
 ]
