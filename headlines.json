@@ -6,12 +6,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
     "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/donut-media-car-swearingen-1-gID_7.png@png",
@@ -24,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-    "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-revolution-during-a-global-crisis.jpg",
+    "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+    "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-comparison-q1-vs-q2-of-2019-1.png",
     "source": "Cointelegraph"
   },
   {
@@ -42,9 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-    "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-2.jpg",
-    "source": "Cointelegraph"
+    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+    "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+    "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2197931706e07b90e7d6508d64a10a39dff3e40-2842x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
