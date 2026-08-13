@@ -1,8 +1,14 @@
 [
   {
-    "title": "Tether Claims &#39;Largest Inaugural Financial Audit&#39; as KPMG Signs Off on 2025 Statements",
-    "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
+    "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+    "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-prison-jail-imprisonment-man-person2-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -12,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
-    "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png@png",
+    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,10 +30,10 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-    "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-robinhood-and-how-does-it-work-2.jpg",
-    "source": "Cointelegraph"
+    "title": "Tether Claims &#39;Largest Inaugural Financial Audit&#39; as KPMG Signs Off on 2025 Statements",
+    "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Crypto for Advisors: The crypto advice gap",
@@ -36,15 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
-    "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-as-energy-buyers-ai.jpg",
+    "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+    "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-robinhood-and-how-does-it-work-2.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
-    "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
