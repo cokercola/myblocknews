@@ -1,27 +1,39 @@
 [
   {
+    "title": "Crypto for Advisors: The crypto advice gap",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4e8f319b4bdb33570deba7727241b4dc16db4b9-4032x2688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-as-energy-buyers-ai.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+    "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
     "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dfcf333f60f7e3c344d0104116ea77b35ddd3a27-500x300.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
-    "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine.jpg",
+    "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+    "url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/trading-up.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-    "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-1.jpg",
+    "title": "Trezor reports data from 14K users exposed through shipping provider",
+    "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-wallet-info-sold-online-ledger-trezor.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-    "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
   },
   {
     "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
@@ -30,21 +42,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
-    "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-    "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab6526a6112137a16ade76be0e301939e1434fb8-6240x3996.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-    "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jpg",
+    "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+    "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-budget-research-crypto-currency-traders-in-japan.jpg",
     "source": "Cointelegraph"
   }
 ]
