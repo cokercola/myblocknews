@@ -1,8 +1,26 @@
 [
   {
+    "title": "ASX shareholder plans to sue former directors over failed blockchain project",
+    "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
     "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/donut-media-car-swearingen-1-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "&#39;Inner Thoughts&#39; of Every Major AI Model Exposed in Massive Exploit",
+    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+    "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -12,39 +30,21 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "&#39;Inner Thoughts&#39; of Every Major AI Model Exposed in Massive Exploit",
-    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
-    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-    "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
     "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
-    "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1752c4b99c4e3953d426b655225dc48327ad8e7b-1920x1244.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+    "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption-1.jpg",
+    "source": "Cointelegraph"
   }
 ]
