@@ -1,14 +1,14 @@
 [
   {
-    "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+    "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
-    "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-libra-vs-gemini-as-us-regulation-pioneer2.jpg",
+    "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+    "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-issued-digital-currency-the-new-bank-account-morgan-stanley.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,15 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-    "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-    "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto-1.jpg",
+    "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+    "url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-jpmorgan-feature-into-global-blockchain-oriented-network-follow-up1.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -36,15 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-    "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/74bc3e2ff5cfbae726c42ebcbad0ca2ee9f07754-1749x984.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
-    "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg",
+    "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
+    "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-binance-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
+    "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
