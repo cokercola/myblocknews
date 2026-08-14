@@ -1,21 +1,15 @@
 [
   {
+    "title": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
+    "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
     "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Crypto payments barely register among euro area merchants, ECB finds",
-    "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "&#39;Bitcoin Is Burning&#39;: Red Team Turns to Chinese AI to Find Flaws",
-    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-    "source": "Decrypt"
   },
   {
     "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
@@ -24,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Anthropic&#39;s AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+    "title": "&#39;Bitcoin Is Burning&#39;: Red Team Turns to Chinese AI to Find Flaws",
+    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -36,15 +30,21 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-    "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg",
+    "title": "Crypto payments barely register among euro area merchants, ECB finds",
+    "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Solana Can Be the &#39;Everything Chain&#39; as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
+    "title": "Anthropic&#39;s AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "SEC cancels key crypto regulatory meeting",
+    "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg",
+    "source": "Cointelegraph"
   }
 ]
