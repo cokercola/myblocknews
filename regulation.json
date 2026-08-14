@@ -1,5 +1,11 @@
 [
   {
+    "title": "SEC cancels key crypto regulatory meeting",
+    "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
     "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c04fefa41085c2dc54aaae74833200ba210061d6-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -24,15 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
-    "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
-    "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-reserve-asset-bill-explained.png",
-    "source": "Cointelegraph"
+    "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+    "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]

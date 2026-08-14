@@ -1,5 +1,35 @@
 [
   {
+    "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+    "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Crypto payments barely register among euro area merchants, ECB finds",
+    "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "&#39;Bitcoin Is Burning&#39;: Red Team Turns to Chinese AI to Find Flaws",
+    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+    "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b73b53b7d99907e25db584d50c4b5d0065ff53-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Anthropic&#39;s AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
     "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/90e55252ca8600f3f161a4c428bcbc02de07fb89-2316x1046.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,39 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "&#39;Bitcoin Is Burning&#39;: Red Team Turns to Chinese AI to Find Flaws",
-    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
-    "url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Anthropic&#39;s AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eth-20-progress.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Solana Can Be the &#39;Everything Chain&#39; as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
     "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "City of Baltimore goes after prediction markets for sports betting",
-    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sports-fan-football.jpg",
-    "source": "Cointelegraph"
   }
 ]
