@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+    "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
+    "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
     "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/054e8b00cc0763cb2f60b81628edb94088c7ec52-4032x2268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
+    "title": "China&#39;s Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -28,23 +46,5 @@
     "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "China&#39;s Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-    "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "SharpLink Will Stake $200M of Ethereum Through Lido&#39;s wstETH",
-    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Sharplink-ethereum-decrypt-style-01-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
