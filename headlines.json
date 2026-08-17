@@ -1,14 +1,26 @@
 [
   {
+    "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+    "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+    "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
     "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/aac953c37e936eeb60a44601fb6cd14c49de9097-6000x3375.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine-1.jpg",
+    "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+    "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,9 +30,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine-1.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -28,23 +46,5 @@
     "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-    "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-    "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-    "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
-    "source": "Cointelegraph"
   }
 ]

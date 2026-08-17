@@ -1,5 +1,17 @@
 [
   {
+    "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+    "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/dollars-fly-away-cftc.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Wall Street Pushback Halts SEC&#39;s Crypto Fundraising Framework, Sources Say",
+    "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "What Stripe&#39;s $7 Billion OpenRouter Deal Actually Means for AI",
     "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg@png",
@@ -22,11 +34,5 @@
     "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
