@@ -1,14 +1,20 @@
 [
   {
+    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
     "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-    "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
+    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,6 +30,12 @@
     "source": "Cointelegraph"
   },
   {
+    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/PumpFunRocketDecryptStylePurple-1-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
     "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/650ce5f7005eed4049392c0fccafc962427f5d39-2880x1620.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -34,17 +46,5 @@
     "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
-    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]

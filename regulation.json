@@ -1,9 +1,27 @@
 [
   {
+    "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+    "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Binance to plan UK relaunch with FCA license application: Report",
+    "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations-binance.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
     "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/dollars-fly-away-cftc.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "The Coldcard hack proves reputation is not a security model",
+    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Wall Street Pushback Halts SEC&#39;s Crypto Fundraising Framework, Sources Say",
@@ -16,23 +34,5 @@
     "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "The Coldcard hack proves reputation is not a security model",
-    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitpanda fined in Austria’s first published MiCA penalty",
-    "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
-    "source": "Cointelegraph"
   }
 ]
