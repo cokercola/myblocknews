@@ -1,8 +1,14 @@
 [
   {
-    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-    "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
+    "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f35aa3de8f990330a9d9779b5208eb6125d0a020-2838x1552.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+    "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.png",
     "source": "Cointelegraph"
   },
   {
@@ -10,6 +16,12 @@
     "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+    "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
@@ -24,27 +36,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-    "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Apple Turns to Alibaba to Help Build AI Model for China",
     "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-    "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
-    "source": "Cointelegraph"
+    "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
