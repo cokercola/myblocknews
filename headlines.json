@@ -1,8 +1,20 @@
 [
   {
-    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+    "title": "OCC approves Trump family crypto company for trust charter",
+    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+    "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+    "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -12,9 +24,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -30,21 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/PumpFunRocketDecryptStylePurple-1-gID_7.jpg@png",
+    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-    "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/650ce5f7005eed4049392c0fccafc962427f5d39-2880x1620.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
-    "source": "Cointelegraph"
   }
 ]
