@@ -1,20 +1,14 @@
 [
   {
-    "title": "The SEC meeting that wasn't: State of Crypto",
-    "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
     "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "MiCA's cleanup is creating a new scam wave across the European Union",
-    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "The SEC meeting that wasn't: State of Crypto",
+    "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -22,6 +16,12 @@
     "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-Coin-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
