@@ -1,8 +1,14 @@
 [
   {
-    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "title": "The Coldcard hack proves reputation is not a security model",
+    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -12,9 +18,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
-    "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-Coin-decrypt-style-01-gID_7.png@png",
+    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
