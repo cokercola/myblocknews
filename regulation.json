@@ -1,5 +1,11 @@
 [
   {
+    "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
+    "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
     "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
@@ -22,17 +28,5 @@
     "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-    "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-chinas-e-cny.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

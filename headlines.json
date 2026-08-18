@@ -1,14 +1,32 @@
 [
   {
+    "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6672a5d2a8a0b0c765a25b027489beb81e47b436-7875x5250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+    "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+    "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
     "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a5d0f75b04392e25a31f206a3e9a16e752cb4a2c-2872x1915.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+    "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+    "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -18,33 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg",
+    "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+    "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Japan&#39;s Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-    "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
-    "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6e1749f04a0187af2f1d76a17a98a67944f6cb4-1000x667.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-    "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
-    "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png",
+    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
