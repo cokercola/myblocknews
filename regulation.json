@@ -1,8 +1,14 @@
 [
   {
-    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+    "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+    "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -24,9 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-    "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg",
-    "source": "Cointelegraph"
+    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
