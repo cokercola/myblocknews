@@ -1,8 +1,20 @@
 [
   {
-    "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Kraken launches US-listed stock trading for EEA customers",
+    "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-blockchain-partnership-24-countries-kraken.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab4b4ef3ea79c164c0b08b3c99452c33eac9a552-1500x1042.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,15 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-    "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c0689c2d5fe97c36365f4d88811b0aa0648c90f-2800x1470.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "The bitcoin price level where leveraged bulls could get whacked",
-    "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+    "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -33,18 +45,6 @@
     "title": "Minnesota Says xAI&#39;s Grok Created &#39;Marketplace for Digital Sexual Violence&#39;",
     "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
-    "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-    "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]

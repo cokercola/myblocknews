@@ -1,5 +1,11 @@
 [
   {
+    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitpanda Hit With Europe&#39;s First Published MiCA Penalty in Austria",
     "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg@png",
@@ -18,21 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-    "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
     "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
+    "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
