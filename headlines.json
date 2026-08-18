@@ -1,15 +1,21 @@
 [
   {
-    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-    "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c826692a78b6305d059b326caafdd27179ed441c-2800x1470.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
-    "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+    "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/price-fall-up-road1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+    "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c0689c2d5fe97c36365f4d88811b0aa0648c90f-2800x1470.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "The bitcoin price level where leveraged bulls could get whacked",
@@ -18,9 +24,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "South Korea moves to block Polymarket over gambling concerns",
+    "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -30,9 +36,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
+    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
+    "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-    "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
