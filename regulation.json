@@ -1,8 +1,14 @@
 [
   {
-    "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+    "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+    "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,10 +18,10 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-    "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
@@ -28,11 +34,5 @@
     "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations-binance.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "The Coldcard hack proves reputation is not a security model",
-    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

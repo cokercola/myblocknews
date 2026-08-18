@@ -1,8 +1,20 @@
 [
   {
-    "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-    "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-breaking-news.jpg",
+    "title": "The bitcoin price level where leveraged bulls could get whacked",
+    "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -12,16 +24,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-    "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+    "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-    "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-9.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
@@ -30,21 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-    "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aac953c37e936eeb60a44601fb6cd14c49de9097-6000x3375.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin climbs above $64,000 while most majors slip",
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "OCC approves Trump family crypto company for trust charter",
-    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg",
+    "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+    "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-breaking-news.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-    "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
