@@ -1,5 +1,17 @@
 [
   {
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+    "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c826692a78b6305d059b326caafdd27179ed441c-2800x1470.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
+    "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "The bitcoin price level where leveraged bulls could get whacked",
     "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,22 +24,16 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Minnesota Says xAI&#39;s Grok Created &#39;Marketplace for Digital Sexual Violence&#39;",
     "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-    "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
@@ -36,15 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin climbs above $64,000 while most majors slip",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+    "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-    "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-breaking-news.jpg",
-    "source": "Cointelegraph"
   }
 ]
