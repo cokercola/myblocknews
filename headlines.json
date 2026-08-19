@@ -1,9 +1,21 @@
 [
   {
+    "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+    "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
     "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -18,12 +30,6 @@
     "source": "Decrypt"
   },
   {
-    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
     "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto-2.jpg",
@@ -36,15 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
-    "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-    "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4043977532f565c610fb2f0995903405a150368d-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
