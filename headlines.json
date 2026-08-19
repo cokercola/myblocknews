@@ -1,15 +1,21 @@
 [
   {
+    "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+    "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-15-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
     "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1100210bc5b1fbf7e6d8fe68a8da46abc7c7fd27-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-    "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
-    "source": "Decrypt"
   },
   {
     "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
@@ -18,9 +24,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
-    "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png@png",
+    "title": "Mozilla Tests an AI &#39;Smart Window&#39; in Firefox—But Only If You Opt In",
+    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/firefox-decrypt-style-scaled-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -30,21 +36,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6672a5d2a8a0b0c765a25b027489beb81e47b436-7875x5250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+    "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
     "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us-1.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
-    "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
