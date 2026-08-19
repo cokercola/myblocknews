@@ -1,5 +1,17 @@
 [
   {
+    "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+    "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
+    "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-new-sec-crypto-task-force-key-changes-to-watch-hester-peirce-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
     "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc7d1dd01270fb8f15f16714372cfa1dcf787a9-2400x1600.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -21,12 +33,6 @@
     "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
     "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-05-scaled-gID_7.jpeg@png",
     "source": "Decrypt"
   }
 ]

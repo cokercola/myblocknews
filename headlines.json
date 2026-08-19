@@ -1,9 +1,21 @@
 [
   {
-    "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
-    "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-saga-1.jpg",
+    "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
+    "url": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazineapate-tying-up-scammers-with-ai-bots.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+    "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Strengthen the Clarity Act",
+    "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a34df3ab0252390fe6f4e09740e01eae5c504e19-5195x3493.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
@@ -12,9 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value",
-    "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-update-on-the-level-of-institutional-interest-in-bitcoin-breaking-news.jpg",
+    "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,27 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/478cd68540a907e1a2111186e0144a0c1edc2676-5088x2862.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
-    "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dubai-overview-ripple-and-blockchain.jpg",
+    "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
+    "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-saga-1.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-15-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff8e6b71360b186f2c1d1d214cb372fc439d0c2f-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
