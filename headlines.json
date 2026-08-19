@@ -1,8 +1,26 @@
 [
   {
-    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-    "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+    "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/398afcdc8a0cd0dbf3d4e696f733104db385aac0-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+    "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Winklevoss-Backed Cypherpunk Launches &#39;World&#39;s Largest&#39; Zcash Mining Fleet",
+    "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+    "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6b8346d81b8cd3929855b44452ed402c7b8e4eba-5481x3083.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,33 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
-    "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e83c36265299fba3f2f0b391d99713fbc72eefb-6322x4215.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+    "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2fcf1aecd60b99a72f50543931ecd3025187c591-3000x2000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Mozilla Tests an AI &#39;Smart Window&#39; in Firefox—But Only If You Opt In",
-    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/firefox-decrypt-style-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-    "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "MAYAChain halts network after estimated $1.7M exploit",
-    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
     "source": "Cointelegraph"
   }
 ]
