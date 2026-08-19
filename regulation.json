@@ -1,5 +1,23 @@
 [
   {
+    "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+    "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9de84456db3917290b913d979a2c68705ae8799-5302x3535.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Trump Calls on Congress to Pass &#39;Fair Version&#39; of Clarity Act at White House Crypto Meeting",
+    "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+    "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b81dc50a7902b55f5c3f1171d1b5b05b321cdb7c-1677x828.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
     "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6eb2747023363cfbe065c8a674c044f684490782-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -16,23 +34,5 @@
     "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Morning Minute: SEC Brings Clarity to Crypto",
-    "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
-    "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

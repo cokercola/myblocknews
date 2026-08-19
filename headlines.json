@@ -1,9 +1,39 @@
 [
   {
+    "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+    "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+    "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
     "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+    "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+    "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/kalshi-logo-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
@@ -15,36 +45,6 @@
     "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
     "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "OCC head promises final GENIUS rules by November",
-    "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
-    "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4043977532f565c610fb2f0995903405a150368d-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
-    "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Coinbase&#39;s Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-    "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
