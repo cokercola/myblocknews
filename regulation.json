@@ -1,20 +1,26 @@
 [
   {
+    "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+    "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
     "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ee65ff3968544b0afabf2faf9a2f4c0f899ba43-1500x1001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
+    "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
+    "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
     "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Trump Says AI Could Be &#39;Bigger Than the Internet&#39; as He Pushes Light-Touch Regulation",
-    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,15 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "BitGo Korea secures VASP registration for institutional crypto custody",
-    "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Trump Calls on Congress to Pass &#39;Fair Version&#39; of Clarity Act at White House Crypto Meeting",
-    "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png@png",
+    "title": "Trump Says AI Could Be &#39;Bigger Than the Internet&#39; as He Pushes Light-Touch Regulation",
+    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
