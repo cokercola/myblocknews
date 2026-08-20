@@ -1,15 +1,21 @@
 [
   {
+    "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
+    "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+    "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "BitGo Korea secures VASP registration for institutional crypto custody",
     "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
-    "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ed9eae23e39b33ac663078c2aadf3dd5a909cc2-1497x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Trump Says AI Could Be &#39;Bigger Than the Internet&#39; as He Pushes Light-Touch Regulation",
@@ -18,21 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9134585356bb1d8116cb93f749e94c54efd20237-1024x768.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Trump Calls on Congress to Pass &#39;Fair Version&#39; of Clarity Act at White House Crypto Meeting",
     "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-    "url": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war-1.png",
-    "source": "Cointelegraph"
+    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+    "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ed9eae23e39b33ac663078c2aadf3dd5a909cc2-1497x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
