@@ -1,21 +1,21 @@
 [
   {
-    "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+    "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
     "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca0ed25f53e417eaa5bdbad915398aaf0f884b27-1080x1006.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Bitcoin&#39;s Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
     "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
@@ -30,12 +30,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
-    "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
     "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
@@ -46,5 +40,11 @@
     "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/82824b8c815ac58b4d78d7f12ea2b2d12477841f-1529x876.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+    "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
+    "source": "Cointelegraph"
   }
 ]
