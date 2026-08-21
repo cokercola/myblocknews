@@ -1,15 +1,33 @@
 [
   {
+    "title": "Pass the Clarity Act",
+    "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+    "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Wall Street and Washington Fuel Bitcoin Rally: Here&#39;s What&#39;s Going On",
+    "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
     "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6a1610dd52a4bfd9936b0c93a6a7e89a86c8ce3-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-    "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-    "source": "Cointelegraph"
+    "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+    "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
@@ -18,9 +36,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
+    "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+    "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -28,23 +46,5 @@
     "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b72b4dd95175914ab42f1abbcbe7a1c1085f565e-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-    "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
-    "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
-    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
