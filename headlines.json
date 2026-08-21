@@ -1,15 +1,33 @@
 [
   {
+    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6a1610dd52a4bfd9936b0c93a6a7e89a86c8ce3-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
+    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
     "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Most Americans Say Trump&#39;s Crypto Profits Cross the Line: Poll",
-    "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
+    "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
+    "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
@@ -24,27 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
+    "title": "Most Americans Say Trump&#39;s Crypto Profits Cross the Line: Poll",
+    "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Binance says employees questioned in UAE cleared and released",
-    "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-    "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d067b6a472aefcd5d9592815bfd5149bbe698626-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
