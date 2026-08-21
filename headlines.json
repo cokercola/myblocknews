@@ -6,12 +6,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
-    "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-raiffeisen-is-at-100k-are-such-targets-realistic-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Most Americans Say Trump&#39;s Crypto Profits Cross the Line: Poll",
     "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
@@ -24,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Coldcard strengthens seed generation with firmware update",
-    "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg",
+    "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+    "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -36,9 +30,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-    "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+    "title": "Binance says employees questioned in UAE cleared and released",
+    "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d067b6a472aefcd5d9592815bfd5149bbe698626-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
