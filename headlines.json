@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bitcoin pushes past $75,000 as rally continues.",
+    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+    "image": null,
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin breaks above 200-day moving average for first time since November",
     "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/shooting-graph-bitcoin-2.jpg",
@@ -12,9 +18,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
-    "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+    "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5c30adde39d74c27e831f8400fa198ddb0528d0-5164x2904.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -22,12 +28,6 @@
     "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aa3ab28c452ec5d1a80a7332ca263add18813d60-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Binance opens crypto trading to AI agents with user-set controls",
@@ -42,9 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Crypto for Advisors: What are tokenized deposits?",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6110a57bc1a40169f4bf82185c3be28bc20151d3-3504x2568.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+    "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
