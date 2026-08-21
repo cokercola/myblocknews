@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/74e60c18babe89474bec272f69e064623c0b184f-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+    "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+    "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/41b87a383d7c62a63685770542bb14af5e62cfa2-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
     "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-3.jpg",
@@ -12,12 +36,6 @@
     "source": "Decrypt"
   },
   {
-    "title": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
-    "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/23fa099137d86dc3a7c75a6cd70903bc53b38cee-1064x1040.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -27,24 +45,6 @@
     "title": "What&#39;s Next for Bitcoin After Historic Rally? Experts Weigh In",
     "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-    "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-    "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Is Pumping But Prediction Market Traders Aren&#39;t Convinced",
-    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
