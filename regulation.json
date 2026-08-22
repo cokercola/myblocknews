@@ -1,9 +1,21 @@
 [
   {
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
     "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Onchain, in court: What happened in crypto legal news this week",
@@ -22,17 +34,5 @@
     "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-    "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-    "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/66abae4ea7817e1052c710afba1f9fa54651f319-5434x3622.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

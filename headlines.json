@@ -1,8 +1,20 @@
 [
   {
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-    "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c910fc1d77a080b35fa9ee1b719813158511ee07-1600x900.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+    "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+    "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/155e3ead47a755d673f9182dd4ef2a4d2eaecf98-1500x1001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -10,12 +22,6 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-    "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d29e6d7594033495762bede569ca03135e9b62c4-1514x840.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
@@ -30,9 +36,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-    "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+    "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-    "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
