@@ -1,11 +1,5 @@
 [
   {
-    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -18,9 +12,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -28,6 +22,12 @@
     "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+    "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd18eda683c70e79b1a216101c6597d4892df0a1-1518x846.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
@@ -42,9 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-    "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
-    "source": "Cointelegraph"
+    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+    "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]

@@ -1,21 +1,15 @@
 [
   {
+    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2e4b01791ef0da39400c9497a72cb149dc00d0f-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
     "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-    "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0866c2b1722cdffa55844039e5a8465e8132d2e-3000x1688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
@@ -24,15 +18,21 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Regulation Crypto is here: State of Crypto",
-    "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
     "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
+    "source": "Cointelegraph"
   }
 ]
