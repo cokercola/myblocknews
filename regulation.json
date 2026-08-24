@@ -6,16 +6,16 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-    "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
@@ -28,5 +28,11 @@
     "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+    "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
+    "source": "Cointelegraph"
   }
 ]
