@@ -1,5 +1,11 @@
 [
   {
+    "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+    "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
     "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,27 +18,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
-    "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
     "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2e4b01791ef0da39400c9497a72cb149dc00d0f-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
-    "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg",
+    "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
+    "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-    "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
