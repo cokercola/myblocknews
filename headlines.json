@@ -1,8 +1,14 @@
 [
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+    "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3532a6f838a307328a125e0fb64689746707a41-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
     "source": "Cointelegraph"
   },
   {
@@ -12,10 +18,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
-    "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
@@ -24,16 +30,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
-    "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd18eda683c70e79b1a216101c6597d4892df0a1-1518x846.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
-    "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa-1.png",
-    "source": "Cointelegraph"
   },
   {
     "title": "Microsoft Fixes &#39;Perfect 10&#39; Exploit That Could Have Let Hackers Run Code Remotely",
@@ -42,9 +42,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+    "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd18eda683c70e79b1a216101c6597d4892df0a1-1518x846.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
