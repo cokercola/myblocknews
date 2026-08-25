@@ -18,12 +18,6 @@
     "source": "Decrypt"
   },
   {
-    "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-    "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
     "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
@@ -36,9 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
-    "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-usd-coin-usdc-in-united-states-1.jpg",
+    "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
+    "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets.png",
     "source": "Cointelegraph"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
