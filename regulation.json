@@ -1,15 +1,21 @@
 [
   {
-    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-    "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+    "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+    "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
@@ -18,21 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-    "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
     "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
+    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+    "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
