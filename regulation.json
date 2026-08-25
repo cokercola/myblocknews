@@ -1,5 +1,17 @@
 [
   {
+    "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+    "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/53639c0c462d1a9b7d0995c0e8a3aca32cf27545-5520x3684.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+    "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/wp-cover-30445-creating-good-agi-that-wont-kill-us-all-with-crypto-artifici-960x540.webp",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
     "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
@@ -12,27 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-    "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86a15ecf511deb99d9d1558beb572b964626cec7-3000x2000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
-    "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
+    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
     "source": "Cointelegraph"
   }
 ]

@@ -1,26 +1,32 @@
 [
   {
-    "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-    "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4aed0ab4a4b649c1960f892d8955d28e8e5fc67-1552x736.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+    "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-    "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg",
+    "title": "Arcus launches tokenized perp positions on Robinhood Chain",
+    "url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-1.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
-    "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65b0740574b4859e756d0a51944a33ea6685a86b-2592x1728.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+    "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+    "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bce868ea7c0bbcc7eaf04e6a1a10b89164fba2a-1629x916.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-    "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -30,21 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cc6f410c5f87e5e284a155f4701d48f056220818-1500x931.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+    "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4aed0ab4a4b649c1960f892d8955d28e8e5fc67-1552x736.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-    "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-relative-strength-index-rsi2.jpg",
+    "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
+    "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magnifier-coin-bitcoin-search22.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
-    "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
