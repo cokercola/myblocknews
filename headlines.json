@@ -1,9 +1,21 @@
 [
   {
+    "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+    "image": null,
+    "source": "CoinDesk"
+  },
+  {
     "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
     "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/161a271835d8a7768de21a1322b974c52bc6ec6a-6957x4558.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
@@ -12,9 +24,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
+    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -30,21 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
+    "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+    "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
   }
 ]
