@@ -1,8 +1,32 @@
 [
   {
+    "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
     "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/09b91de6de40cce9a15d10990697d9b05efe241f-1920x1078.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+    "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-supply-bitcoin-audit.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Franklin Templeton&#39;s Tokenized Treasury Fund Lands on HashKey",
+    "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Franklin-Templeton-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
+    "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/398fe558a7984881da5e90ba4b9c11f62935d92e-1382x760.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -10,12 +34,6 @@
     "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-long-arm-of-justice-cftc.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
-    "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/398fe558a7984881da5e90ba4b9c11f62935d92e-1382x760.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   },
   {
     "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
@@ -28,23 +46,5 @@
     "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-    "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

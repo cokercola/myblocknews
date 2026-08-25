@@ -1,5 +1,17 @@
 [
   {
+    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "US Can Now Sanction Anyone Operating in Iran&#39;s Crypto Sector",
+    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
@@ -22,17 +34,5 @@
     "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-    "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
