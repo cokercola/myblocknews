@@ -1,15 +1,21 @@
 [
   {
-    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
-    "source": "Cointelegraph"
+    "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+    "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "US Can Now Sanction Anyone Operating in Iran&#39;s Crypto Sector",
     "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
@@ -27,12 +33,6 @@
     "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
     "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-    "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
     "source": "Cointelegraph"
   }
 ]
