@@ -1,20 +1,26 @@
 [
   {
-    "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
-    "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-tornado-cash.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-    "url": "https://www.coindesk.com/markets/2026/08/26/E",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+    "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cd4d678c4ba0e042e13fafc6c1f01fa2cef3847-1420x916.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg",
+    "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+    "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Japan to start stocks and bonds tokenization development plans this year",
+    "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/585051b2af5a7a46c3272ab90b4c07f7a2f67acc-4926x3080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Revolut rolls out euro stablecoin in 3 European markets",
+    "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-token-how-it-will-impact-the-current-financial-system-ecb-1.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,27 +30,21 @@
     "source": "Decrypt"
   },
   {
-    "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-    "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/31336f2e8794d1c707dcb8b48564b3ac7404304d-1384x768.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+    "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01a18fc46c4e26a250bc9e85e92b715fe4a43c69-1510x848.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+    "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-tornado-cash.jpg",
     "source": "Cointelegraph"
   },
   {
     "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
     "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png@png",
     "source": "Decrypt"
   }
 ]
