@@ -1,14 +1,26 @@
 [
   {
-    "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+    "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+    "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can&#39;t Be Fired From",
+    "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_2475133901-gID_4.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
     "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b33f1bb25f1192885403a37624d1c465d514180-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-    "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
+    "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+    "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -21,18 +33,6 @@
     "title": "The evidence doesn't support the banks' case against stablecoin rewards",
     "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c674a8b6ba132f35f5c579352cea62a76afb5fa-3000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "&#39;The Government Doesn&#39;t Own Our Data&#39;: Prosecuted GrapheneOS User",
-    "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/grapheneos-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-    "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
