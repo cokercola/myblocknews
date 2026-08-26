@@ -1,14 +1,26 @@
 [
   {
-    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-    "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg",
+    "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+    "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b33f1bb25f1192885403a37624d1c465d514180-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "SEC sends crypto custody rule overhaul to White House for review",
+    "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+    "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
+    "source": "Decrypt"
   },
   {
     "title": "The evidence doesn't support the banks' case against stablecoin rewards",
     "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5acd70c391d10b236041caf2c43b0c229681b641-7145x4763.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c674a8b6ba132f35f5c579352cea62a76afb5fa-3000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -18,21 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-    "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/LayerZero_Logo_Full-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "The 3 catalysts that could define bitcoin's next move",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
+    "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg",
+    "source": "Cointelegraph"
   }
 ]
