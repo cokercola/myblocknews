@@ -1,8 +1,14 @@
 [
   {
-    "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
-    "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
+    "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+    "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+    "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/polygon-pol-decrypt-style-01-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -12,9 +18,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bernie Sanders Vows Legislation to &#39;Stop Flock and AI Mass Surveillance&#39;",
-    "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png@png",
+    "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
+    "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -22,5 +28,11 @@
     "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Bernie Sanders Vows Legislation to &#39;Stop Flock and AI Mass Surveillance&#39;",
+    "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png@png",
+    "source": "Decrypt"
   }
 ]

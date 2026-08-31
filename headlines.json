@@ -1,8 +1,20 @@
 [
   {
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "title": "Michael Saylor hints at first bitcoin purchase in two months",
     "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+    "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1ABTCJ2NCZ56B6Y07HVQZ2T/magazine-cover-collage.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+    "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9783d7b206819da6e468694efca72dd18e27ac27-1186x667.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,15 +24,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
-    "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9783d7b206819da6e468694efca72dd18e27ac27-1186x667.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+    "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ec0faabb4311a9cbb3b547c5d4d2d107b6d405e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -30,21 +36,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
-    "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ec0faabb4311a9cbb3b547c5d4d2d107b6d405e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
     "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-    "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
