@@ -1,5 +1,23 @@
 [
   {
+    "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+    "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+    "url": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EQEQR2GJNM98QNW5X01NM1/hi-crypto-ban.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
     "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -16,23 +34,5 @@
     "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b54c9936e9efb6130c7faf2e7459e5883cf216b6-6309x3549.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-    "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-    "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "George Santos Bet on Whether He&#39;d Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/george-santos-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
