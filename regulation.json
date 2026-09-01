@@ -1,21 +1,15 @@
 [
   {
-    "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
-    "url": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7811376536bd7e0a18011d88543caf1418cf7f29-6000x4002.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-    "url": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/903e318acd6dff33bc9b0083d0f98e3ea9edf92b-1420x916.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "George Santos Bet on Whether He&#39;d Show Up to the State of the Union—Kalshi Just Banned Him for Life",
     "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/george-santos-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+    "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DH1WEZ277YHH7XH1QMY4YC/regulations-thailand-crypto.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
@@ -24,15 +18,21 @@
     "source": "Decrypt"
   },
   {
+    "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+    "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
     "title": "Russia&#39;s Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
     "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
-    "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
-    "source": "Cointelegraph"
+    "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
+    "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+    "source": "Decrypt"
   }
 ]
