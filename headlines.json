@@ -1,20 +1,32 @@
 [
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
     "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2ac925a7a768a3a034001f0cf6c3ecdc6749b81-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
-    "url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HEBC31STJ1V8Y61W60PS20/analytics-red-market-falling-drop-bitcoin-3.jpg",
+    "title": "&#39;The Right Trade&#39;: Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+    "url": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+    "url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "OpenAI&#39;s Astra Becomes Its First AI Model With &#39;Critical&#39; Hacking Abilities",
-    "url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+    "title": "Is Bitcoin About to Flash Crash? What a &#39;Bart Simpson&#39; Pattern Would Actually Take",
+    "url": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Bart-BTC-Gallery-Masterpiece-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,27 +36,15 @@
     "source": "CoinDesk"
   },
   {
-    "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
-    "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H85V728VXBM9KYCSEJAD01/g20-discuss-crypto-desk-table-meeting-hand-paper-people2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-    "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-03-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-    "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "The token supercycle: everything of value is becoming programmable",
-    "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/436253b5496708d8dc3a743f0f035ee3c2284db4-5700x3800.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+    "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/43bcebed4b4df55c6cef38bae8e8969d1a077019-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
+    "url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HEBC31STJ1V8Y61W60PS20/analytics-red-market-falling-drop-bitcoin-3.jpg",
+    "source": "Cointelegraph"
   }
 ]
