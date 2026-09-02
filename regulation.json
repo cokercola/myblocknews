@@ -1,9 +1,27 @@
 [
   {
+    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+    "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/43bcebed4b4df55c6cef38bae8e8969d1a077019-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
+    "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
     "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/OpenClaw2-gID_7.jpg@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+    "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7b441e8643c74c36e10edcf0eba0d1452e8acd6-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
@@ -16,23 +34,5 @@
     "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
-    "url": "https://decrypt.co/377099/dropbox-security-breach",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-    "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
