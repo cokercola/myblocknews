@@ -1,15 +1,21 @@
 [
   {
-    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
-    "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+    "url": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
     "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
@@ -24,15 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-    "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7912f8af2cf1731212d8aac5aa93c6fbbde00c1e-1280x622.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "New Jersey officials petition US Supreme Court over prediction markets",
-    "url": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HKH1HH1DMHKVCZWY8RFR6Q/b-lawsuit-kalshi-3.jpg",
-    "source": "Cointelegraph"
+    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
+    "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+    "source": "Decrypt"
   }
 ]
