@@ -12,12 +12,6 @@
     "source": "Decrypt"
   },
   {
-    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
-    "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
-  },
-  {
     "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
     "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2ac925a7a768a3a034001f0cf6c3ecdc6749b81-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -30,15 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
-    "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
+    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+    "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
-    "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
-    "url": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-government-illustration-decrypt-style-gID_7.jpg@png",
+    "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+    "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+    "url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg",
+    "source": "Cointelegraph"
   }
 ]

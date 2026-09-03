@@ -6,6 +6,12 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
     "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -28,11 +34,5 @@
     "url": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HKH1HH1DMHKVCZWY8RFR6Q/b-lawsuit-kalshi-3.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
-    "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
