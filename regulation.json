@@ -1,5 +1,17 @@
 [
   {
+    "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
+    "url": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+    "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
     "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6729e1c305b50c141cc3d56e8ad78bb80d24b6e7-1500x968.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -12,27 +24,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
-    "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-    "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+    "title": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
+    "url": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   },
   {
     "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
     "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a42d9901e36bb0d51108c0d5d86afe8fe22332c8-1920x1079.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-    "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3488397e93351ed3a88de739300c35ce1824573b-1420x916.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   }
 ]
