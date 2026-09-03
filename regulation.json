@@ -1,9 +1,21 @@
 [
   {
-    "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-    "url": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg",
+    "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
+    "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6729e1c305b50c141cc3d56e8ad78bb80d24b6e7-1500x968.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
+    "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KGRZRFAT4PNFKDRGKF3YTG/hi-crypto-in-gulf-a-new-trend-1.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+    "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
@@ -12,27 +24,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
-    "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
+    "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a42d9901e36bb0d51108c0d5d86afe8fe22332c8-1920x1079.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
-    "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+    "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3488397e93351ed3a88de739300c35ce1824573b-1420x916.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Coinbase launches regulated crypto derivatives in Canada",
-    "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HT238M4JD1C8SQAQHTYKWY/people-street-futures.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
-    "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
