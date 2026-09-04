@@ -1,5 +1,11 @@
 [
   {
+    "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+    "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
     "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMTZTE9JA669CG8QFKJ243/hi-fines-and-regulation-the-ever-growing-landscape-of-crypto-compliance.png",
@@ -12,21 +18,15 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
-    "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "South Korean regulators introduce tokenized securities roadmap",
-    "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NZDZRJB5DD0DA0Z7XCR531/hi-why-south-korea-is-struggling-to-decide-who-can-issue-stablecoins-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "South Korea targets February 2027 rollout for full tokenized securities market",
     "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/32f05413502b0ca1b61d0b9b4f510a6fc72c8a27-5830x3851.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+    "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg",
+    "source": "Cointelegraph"
   }
 ]
