@@ -1,21 +1,39 @@
 [
   {
-    "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
-    "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f4026bacc3bff27d53812946dd3e1d5513fff7f-1398x786.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+    "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/617692fba4f89c491c8286285e86d74495df0a82-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
+    "title": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
+    "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6f1b0d6a21e1b90fcb2e94a08e782b25a7ac1d71-2592x1458.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Token buybacks are booming. But are they good for crypto projects?",
+    "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg",
     "source": "Cointelegraph"
   },
   {
-    "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-    "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-shhh-gID_7.png@png",
+    "title": "IMF Now Says Donations Funded El Salvador&#39;s Bitcoin Growth",
+    "url": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-El-Salvador-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+    "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7dd999f69845b0830815a802864a616639bae679-1516x840.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -24,27 +42,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
-    "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f043d332f866a0caec6c3e16fd6913c453ca418-2854x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
-    "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NGYSVS43N7A248K7QYWTY9/yacht-boat",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
-    "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg@png",
+    "title": "67,000 More Trezor Customers Exposed as Data Breach Widens",
+    "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
-    "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87d59e70eebb3f155812d7ca7361ed0768fb1a2e-1504x834.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]

@@ -1,9 +1,27 @@
 [
   {
-    "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-    "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d2b4b82edc6ff0637b37466e20cadf90ebe36839-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+    "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+    "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+    "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/32f05413502b0ca1b61d0b9b4f510a6fc72c8a27-5830x3851.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "South Korean regulators introduce tokenized securities roadmap",
+    "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NZDZRJB5DD0DA0Z7XCR531/hi-why-south-korea-is-struggling-to-decide-who-can-issue-stablecoins-1.jpg",
+    "source": "Cointelegraph"
   },
   {
     "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
@@ -12,27 +30,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-    "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-    "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7150e9147434709d0f26c49d26f21b2219558bef-2803x1577.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+    "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d2b4b82edc6ff0637b37466e20cadf90ebe36839-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-    "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
-    "url": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg",
-    "source": "Cointelegraph"
   }
 ]
