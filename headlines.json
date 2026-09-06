@@ -1,14 +1,26 @@
 [
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "OpenAI&#39;s GPT-6 Astra Is Shockingly Good at Almost Everything",
+    "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
     "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac6842abf59685d7a979fa176e4dc1908a44ebdf-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -24,9 +36,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
+    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+    "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
     "source": "Cointelegraph"
   },
   {
@@ -34,17 +46,5 @@
     "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/67f1b9834e7673076b5fd1e6db8975934fb913e3-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-    "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-    "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/high-school-classroom-gID_4.jpg@png",
-    "source": "Decrypt"
   }
 ]
