@@ -1,38 +1,8 @@
 [
   {
-    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
-    "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67f1b9834e7673076b5fd1e6db8975934fb913e3-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-    "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/high-school-classroom-gID_4.jpg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-    "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
-    "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-    "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54662a5b70f0b4676e2b252594789b82117e88e3-1920x1281.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac6842abf59685d7a979fa176e4dc1908a44ebdf-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -42,9 +12,39 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
+    "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+    "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+    "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
+    "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67f1b9834e7673076b5fd1e6db8975934fb913e3-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+    "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+    "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/high-school-classroom-gID_4.jpg@png",
     "source": "Decrypt"
   }
 ]
