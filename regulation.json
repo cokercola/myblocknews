@@ -1,5 +1,23 @@
 [
   {
+    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+    "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e811d957616f476007bbc63485c4cb73baac3c0d-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+    "url": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YE3WX83P6A9KHXBC6QXND1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+    "url": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
     "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/342f8890301beb5acf9ca08064a218d0b94619e1-1732x974.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
@@ -16,11 +34,5 @@
     "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0622f5d786f1a6fd13defa2256ad0a199ecd657c-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Stablecoins Won&#39;t Scale Without Banks",
-    "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   }
 ]
