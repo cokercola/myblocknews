@@ -6,15 +6,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Bybit launches 24/7 perpetuals for major currency pairs",
-    "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M214SKH0TJH9F4DEZTD531F1/hi-bond-follow-up-bybit-1.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-    "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+    "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7-pID_2.png@png",
     "source": "Decrypt"
   },
   {
@@ -24,22 +18,28 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
-    "url": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20X8RTKQJQJ462YAJQDMNR1/hi-new-industry-new-rules-building-an-industry-without-bias.png",
+    "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+    "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M21BC7WR8S6QJNY728RV1B71/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-breaking-news.png",
     "source": "Cointelegraph"
   },
   {
-    "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
+    "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With &#39;White Hats&#39;",
+    "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Visa brings onchain credit to its growing stablecoin card business",
-    "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg",
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+    "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+    "source": "Decrypt"
   },
   {
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
