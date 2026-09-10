@@ -1,15 +1,21 @@
 [
   {
+    "title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+    "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec9ad9b7314c704b4ba9574c0e07436674b8a141-1408x804.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
+    "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators&#39; Home States",
     "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
     "source": "Decrypt"
-  },
-  {
-    "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-    "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
-    "source": "Cointelegraph"
   },
   {
     "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
@@ -18,10 +24,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-    "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/80e406dbd57932e0cbebc3e7b0962f8c68e4d435-4656x3104.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
+    "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
+    "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+    "source": "Cointelegraph"
   },
   {
     "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",

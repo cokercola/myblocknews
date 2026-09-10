@@ -1,11 +1,5 @@
 [
   {
-    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-    "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -18,16 +12,10 @@
     "source": "Decrypt"
   },
   {
-    "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-    "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b751c64af19824fc862118663629188f655c38e-4032x2268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+    "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/32c66d3cef6d1b4baa682e2a0c688da59be56be1-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
-    "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
-    "source": "Cointelegraph"
   },
   {
     "title": "AI Is Solving Math&#39;s Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -36,15 +24,27 @@
     "source": "Decrypt"
   },
   {
-    "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-    "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+    "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba0a36a6d6ad5c5c59f41719b0738f5a90a5a0c8-2010x1082.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Consensys to split into MetaMask and institutional blockchain company",
-    "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
+    "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+    "url": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24QTEWYPM9EJZ1K9K7WJB93/usa-sanctions-xinbi.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+    "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aa08ce1ab67582761b88b71cd110f1937a343c8-1526x848.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+    "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
     "source": "Cointelegraph"
   }
 ]
