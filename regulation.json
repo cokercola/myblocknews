@@ -1,14 +1,26 @@
 [
   {
-    "title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
-    "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec9ad9b7314c704b4ba9574c0e07436674b8a141-1408x804.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+    "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25QS3J7E4QKZ8FBTX1J64KM/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-2021-3.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+    "url": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25HQFKJSSFVM807MJZBJCMD/bank-building-hall-entrance-revolving-doorsthreepeople-1.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+    "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f231dbc1b627628eb7b1afe3073540e1eb17e2-1690x751.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
-    "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
+    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+    "url": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25AAYAYJTA7FVQK9H44A4NC/hi-who-is-scott-bessent-clarity-act.jpg",
     "source": "Cointelegraph"
   },
   {
@@ -18,21 +30,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-    "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
-    "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-    "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/oil-market-decrypt-style-gID_7.jpg@png",
-    "source": "Decrypt"
+    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+    "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2f94021574e163f8fb31a12e44654b7fc2e42f7-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
