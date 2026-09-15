@@ -1,20 +1,20 @@
 [
   {
-    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
-    "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-    "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+    "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+    "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png",
     "source": "Cointelegraph"
   },
   {
@@ -24,15 +24,9 @@
     "source": "Decrypt"
   },
   {
-    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
-    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8cf9c186e9bd64a1303b6e7e58bd043359c97153-3506x1972.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-    "url": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
+    "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+    "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png",
     "source": "Cointelegraph"
   },
   {
@@ -42,9 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-    "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+    "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e6376ed45a3d412e45b43d8bef2b7e97998c05ab-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
+  },
+  {
+    "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+    "url": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HHXN4JX4VQKB9WX83V8K8J/single-leaf-on-tree-balancer.jpg",
+    "source": "Cointelegraph"
   }
 ]
