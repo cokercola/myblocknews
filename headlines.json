@@ -1,5 +1,29 @@
 [
   {
+    "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+    "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8e9db6032b036eea626f59666fc8e84629ad8d6-1027x576.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+    "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Wall Street Bets on Fed Rate Hike: Here&#39;s What It Means for Bitcoin, Bonds and Trump",
+    "url": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+    "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -12,39 +36,15 @@
     "source": "Decrypt"
   },
   {
-    "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-    "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
     "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e51e066362c8bb5ce669efe6d8bfceab56af7c5d-1672x941.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
-    "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-    "url": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-    "url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-    "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb7714b875f98af0e0118a795ebe30c3fc3b672e-3832x2157.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg",
+    "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+    "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
     "source": "Cointelegraph"
   }
 ]
