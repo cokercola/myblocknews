@@ -1,9 +1,21 @@
 [
   {
-    "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
-    "url": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
+    "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+    "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
     "source": "Decrypt"
+  },
+  {
+    "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+    "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+    "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   },
   {
     "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
@@ -18,21 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-    "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
     "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
     "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MVFM6AWTS8K6F6MEKXPCY1/hi-world-bank-initiatives-deutsche-bundesbank-blockchain.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Deutsche Bank close to debuting crypto custody for institutions",
-    "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
   }
 ]
