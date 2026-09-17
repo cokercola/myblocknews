@@ -1,8 +1,26 @@
 [
   {
-    "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-    "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/72d2d0f41575a69ebb63c81c3ae0aa0e4b7b3e5c-3308x1862.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+    "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
+    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+    "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fef85cd19f3a741084cddd91d0ba11ac78f122fd-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+    "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -12,27 +30,9 @@
     "source": "Cointelegraph"
   },
   {
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-    "url": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
-    "url": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QNBNVRQ7TMRW88EK0EQ7P2/world-sp-global-rating.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
+    "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+    "url": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/uk-police-decrypt-style-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
