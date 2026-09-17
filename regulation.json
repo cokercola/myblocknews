@@ -1,15 +1,27 @@
 [
   {
+    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+    "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12fc8f9343218cf1308738931c45f470a97379bd-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "CFTC expands regulatory relief for passive trading software providers",
+    "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
+    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
+    "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/atom-bomb-decrypt-style-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
     "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
     "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
-  },
-  {
-    "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
-    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
-    "source": "Decrypt"
   },
   {
     "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
@@ -18,21 +30,9 @@
     "source": "CoinDesk"
   },
   {
-    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-    "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-    "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQC5X3Z7N19JN9MSH4SD45/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter-1.jpg",
-    "source": "Cointelegraph"
-  },
-  {
-    "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-    "url": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/uk-police-decrypt-style-gID_7.jpg@png",
+    "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
     "source": "Decrypt"
   }
 ]
