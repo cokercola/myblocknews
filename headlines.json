@@ -1,26 +1,8 @@
 [
   {
-    "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-    "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b08655496c72c8658f860327377b4fc4bb202061-1500x903.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "Meta May Have Found a Fix for Its &#39;Pervert Glasses&#39;",
-    "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-    "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60aebd54ba86be12588505ff7b7b03b2e32c2fa1-1200x807.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c0e10162eeb3f847d9b58464aa8ddce932437bf-2396x1382.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
     "source": "CoinDesk"
   },
   {
@@ -30,21 +12,39 @@
     "source": "Cointelegraph"
   },
   {
+    "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+    "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "Meta May Have Found a Fix for Its &#39;Pervert Glasses&#39;",
+    "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
+  },
+  {
+    "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+    "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "OpenAI&#39;s Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
     "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
     "source": "Decrypt"
   },
   {
-    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
-    "source": "Decrypt"
-  },
-  {
-    "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-    "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
-    "source": "Cointelegraph"
+    "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+    "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3117cf3dd45002820f985ed15736a3333261d9c0-1508x842.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
