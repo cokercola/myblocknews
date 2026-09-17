@@ -12,12 +12,6 @@
     "source": "CoinDesk"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "source": "Cointelegraph"
-  },
-  {
     "title": "Meta May Have Found a Fix for Its &#39;Pervert Glasses&#39;",
     "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
@@ -30,9 +24,21 @@
     "source": "CoinDesk"
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "source": "Cointelegraph"
+  },
+  {
     "title": "OpenAI&#39;s Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
     "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
     "source": "Decrypt"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
     "source": "Cointelegraph"
-  },
-  {
-    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
-    "source": "Decrypt"
   }
 ]
