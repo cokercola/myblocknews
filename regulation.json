@@ -1,14 +1,8 @@
 [
   {
-    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-    "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12fc8f9343218cf1308738931c45f470a97379bd-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-    "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
+    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+    "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
     "source": "Cointelegraph"
   },
   {
@@ -18,21 +12,27 @@
     "source": "Decrypt"
   },
   {
-    "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-    "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-    "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fef85cd19f3a741084cddd91d0ba11ac78f122fd-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
-    "source": "CoinDesk"
-  },
-  {
-    "title": "CFTC expands regulatory relief for passive trading software providers",
-    "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+    "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
     "source": "Cointelegraph"
+  },
+  {
+    "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "OpenAI Says It&#39;s Made Progress on a Second $1 Million Math Problem",
+    "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+    "source": "Decrypt"
+  },
+  {
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+    "source": "CoinDesk"
   }
 ]
